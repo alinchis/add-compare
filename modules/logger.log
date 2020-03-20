@@ -1,0 +1,4032 @@
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:37 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36926[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m37933056[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4331832[39m,
+      external: [33m1197790[39m,
+      arrayBuffers: [33m158983[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.08056640625[39m, [33m1.0478515625[39m, [33m0.97705078125[39m ],
+    uptime: [33m80622[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:37 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36926[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39350272[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4857840[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.08056640625[39m, [33m1.0478515625[39m, [33m0.97705078125[39m ],
+    uptime: [33m80622[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:37 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36926[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39669760[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4984296[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.08056640625[39m, [33m1.0478515625[39m, [33m0.97705078125[39m ],
+    uptime: [33m80622[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:37 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36926[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39669760[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5107416[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.08056640625[39m, [33m1.0478515625[39m, [33m0.97705078125[39m ],
+    uptime: [33m80622[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:55 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36949[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m38232064[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4328168[39m,
+      external: [33m1197790[39m,
+      arrayBuffers: [33m158983[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.927734375[39m, [33m1.01171875[39m, [33m0.96728515625[39m ],
+    uptime: [33m80640[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:55 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36949[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39206912[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4854224[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.927734375[39m, [33m1.01171875[39m, [33m0.96728515625[39m ],
+    uptime: [33m80640[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:55 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36949[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39526400[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4980680[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.927734375[39m, [33m1.01171875[39m, [33m0.96728515625[39m ],
+    uptime: [33m80640[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:12:55 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36949[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39526400[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5103840[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.927734375[39m, [33m1.01171875[39m, [33m0.96728515625[39m ],
+    uptime: [33m80640[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m23[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:23)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:13:21 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36991[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m37662720[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4327888[39m,
+      external: [33m1197790[39m,
+      arrayBuffers: [33m158983[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.63134765625[39m, [33m1.17138671875[39m, [33m1.021484375[39m ],
+    uptime: [33m80666[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:13:21 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36991[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39129088[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4853920[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.63134765625[39m, [33m1.17138671875[39m, [33m1.021484375[39m ],
+    uptime: [33m80666[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:13:21 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36991[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39387136[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4980312[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.63134765625[39m, [33m1.17138671875[39m, [33m1.021484375[39m ],
+    uptime: [33m80666[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:13:21 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m36991[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39387136[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5103376[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.63134765625[39m, [33m1.17138671875[39m, [33m1.021484375[39m ],
+    uptime: [33m80666[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:14:32 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37042[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m37826560[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4342464[39m,
+      external: [33m1197790[39m,
+      arrayBuffers: [33m158983[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.25732421875[39m, [33m1.13818359375[39m, [33m1.0166015625[39m ],
+    uptime: [33m80737[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:14:32 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37042[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39112704[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4868496[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.25732421875[39m, [33m1.13818359375[39m, [33m1.0166015625[39m ],
+    uptime: [33m80737[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:14:32 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37042[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39432192[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4994888[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.25732421875[39m, [33m1.13818359375[39m, [33m1.0166015625[39m ],
+    uptime: [33m80737[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshteinjs 
+{
+  date: [32m'Tue Mar 17 2020 10:14:32 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37042[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39432192[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5117976[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.25732421875[39m, [33m1.13818359375[39m, [33m1.0166015625[39m ],
+    uptime: [33m80737[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshteinjs'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshteinjs:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:18:15 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37184[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m37814272[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4342520[39m,
+      external: [33m1197790[39m,
+      arrayBuffers: [33m158983[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.89990234375[39m, [33m0.99462890625[39m, [33m0.984375[39m ],
+    uptime: [33m80960[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:18:15 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37184[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m38965248[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4868520[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.89990234375[39m, [33m0.99462890625[39m, [33m0.984375[39m ],
+    uptime: [33m80960[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:18:15 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37184[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39284736[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4994920[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.89990234375[39m, [33m0.99462890625[39m, [33m0.984375[39m ],
+    uptime: [33m80960[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:18:15 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37184[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39284736[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5118016[39m,
+      external: [33m1197854[39m,
+      arrayBuffers: [33m159007[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.89990234375[39m, [33m0.99462890625[39m, [33m0.984375[39m ],
+    uptime: [33m80960[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:24:17 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37423[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m37724160[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4344864[39m,
+      external: [33m1169592[39m,
+      arrayBuffers: [33m130785[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.01806640625[39m, [33m0.900390625[39m, [33m0.9267578125[39m ],
+    uptime: [33m81322[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:24:17 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37423[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39022592[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4870936[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.01806640625[39m, [33m0.900390625[39m, [33m0.9267578125[39m ],
+    uptime: [33m81322[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:24:17 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37423[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39329792[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4997304[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.01806640625[39m, [33m0.900390625[39m, [33m0.9267578125[39m ],
+    uptime: [33m81322[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:24:17 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m37423[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39329792[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5120384[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.01806640625[39m, [33m0.900390625[39m, [33m0.9267578125[39m ],
+    uptime: [33m81322[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:32:40 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38061[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m38289408[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4327728[39m,
+      external: [33m1169592[39m,
+      arrayBuffers: [33m130785[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.55908203125[39m, [33m0.83740234375[39m, [33m0.8935546875[39m ],
+    uptime: [33m81825[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m4[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:4:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:32:40 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38061[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m38969344[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4853728[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.55908203125[39m, [33m0.83740234375[39m, [33m0.8935546875[39m ],
+    uptime: [33m81825[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m4[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:4:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:32:40 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38061[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39288832[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4980120[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.55908203125[39m, [33m0.83740234375[39m, [33m0.8935546875[39m ],
+    uptime: [33m81825[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m4[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:4:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:32:40 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38061[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39288832[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5103192[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m0.55908203125[39m, [33m0.83740234375[39m, [33m0.8935546875[39m ],
+    uptime: [33m81825[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m4[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:4:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [CreateMappingConfig] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:38:54 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38434[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m37654528[39m,
+      heapTotal: [33m8626176[39m,
+      heapUsed: [33m4329448[39m,
+      external: [33m1169592[39m,
+      arrayBuffers: [33m130785[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.09912109375[39m, [33m1.05810546875[39m, [33m1.00244140625[39m ],
+    uptime: [33m82199[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [Helper] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:38:54 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38434[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m38969344[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4855464[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.09912109375[39m, [33m1.05810546875[39m, [33m1.00244140625[39m ],
+    uptime: [33m82199[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [SbEvent] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:38:54 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38434[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39276544[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m4981832[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.09912109375[39m, [33m1.05810546875[39m, [33m1.00244140625[39m ],
+    uptime: [33m82199[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}
+[31merror[39m: [ExitHandler] uncaughtException: Cannot find module 'similarity-score'
+Require stack:
+- /home/alin/Git/add-compare/modules/test_levenshtein.js 
+{
+  date: [32m'Tue Mar 17 2020 10:38:54 GMT+0200 (Eastern European Standard Time)'[39m,
+  process: {
+    pid: [33m38434[39m,
+    uid: [33m1000[39m,
+    gid: [33m1000[39m,
+    cwd: [32m'/home/alin/Git/add-compare/modules'[39m,
+    execPath: [32m'/usr/bin/node'[39m,
+    version: [32m'v13.11.0'[39m,
+    argv: [
+      [32m'/usr/bin/node'[39m,
+      [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m
+    ],
+    memoryUsage: {
+      rss: [33m39276544[39m,
+      heapTotal: [33m8892416[39m,
+      heapUsed: [33m5104912[39m,
+      external: [33m1169656[39m,
+      arrayBuffers: [33m130809[39m
+    }
+  },
+  os: {
+    loadavg: [ [33m1.09912109375[39m, [33m1.05810546875[39m, [33m1.00244140625[39m ],
+    uptime: [33m82199[39m
+  },
+  trace: [
+    {
+      column: [33m15[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._resolveFilename'[39m,
+      line: [33m976[39m,
+      method: [32m'_resolveFilename'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m27[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m859[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m19[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.require'[39m,
+      line: [33m1036[39m,
+      method: [32m'require'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m18[39m,
+      file: [32m'internal/modules/cjs/helpers.js'[39m,
+      function: [32m'require'[39m,
+      line: [33m72[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m25[39m,
+      file: [32m'/home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+      function: [1mnull[22m,
+      line: [33m5[39m,
+      method: [1mnull[22m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m30[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._compile'[39m,
+      line: [33m1147[39m,
+      method: [32m'_compile'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m10[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._extensions..js'[39m,
+      line: [33m1167[39m,
+      method: [32m'.js'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m32[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module.load'[39m,
+      line: [33m996[39m,
+      method: [32m'load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m14[39m,
+      file: [32m'internal/modules/cjs/loader.js'[39m,
+      function: [32m'Module._load'[39m,
+      line: [33m896[39m,
+      method: [32m'_load'[39m,
+      native: [33mfalse[39m
+    },
+    {
+      column: [33m12[39m,
+      file: [32m'internal/modules/run_main.js'[39m,
+      function: [32m'Function.executeUserEntryPoint [as runMain]'[39m,
+      line: [33m71[39m,
+      method: [32m'executeUserEntryPoint [as runMain]'[39m,
+      native: [33mfalse[39m
+    }
+  ],
+  stack: [
+    [32m"Error: Cannot find module 'similarity-score'"[39m,
+    [32m'Require stack:'[39m,
+    [32m'- /home/alin/Git/add-compare/modules/test_levenshtein.js'[39m,
+    [32m'    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:976:15)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:859:27)'[39m,
+    [32m'    at Module.require (internal/modules/cjs/loader.js:1036:19)'[39m,
+    [32m'    at require (internal/modules/cjs/helpers.js:72:18)'[39m,
+    [32m'    at Object.<anonymous> (/home/alin/Git/add-compare/modules/test_levenshtein.js:5:25)'[39m,
+    [32m'    at Module._compile (internal/modules/cjs/loader.js:1147:30)'[39m,
+    [32m'    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1167:10)'[39m,
+    [32m'    at Module.load (internal/modules/cjs/loader.js:996:32)'[39m,
+    [32m'    at Function.Module._load (internal/modules/cjs/loader.js:896:14)'[39m,
+    [32m'    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)'[39m
+  ]
+}

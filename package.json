@@ -1,0 +1,17 @@
+{
+  "name": "add-compare",
+  "version": "1.0.0",
+  "description": "compare two addresses for similarities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alin CHIS",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "js-levenshtein": "^1.1.6",
+    "sentence-similarity": "^3.0.2",
+    "similarity-score": "^1.0.0"
+  }
+}

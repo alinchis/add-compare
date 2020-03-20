@@ -1,0 +1,2639 @@
+levenshtein_distance;lie_index;lie_add;lmi_index;lmi_add
+1;0;bulevardul aviatorilor 65;112;bulevardul aviatorilor 5
+1;1;strada baniei 5;171;strada baniei 3
+1;2;strada baratiei 35;179;strada baratiei 33
+9;3;strada barbu mumuleanu 11;149;strada barasch iuliu 11
+1;4;strada blanari 21;159;strada blanari 2
+5;5;strada busolei 10;172;strada baniei 11
+7;6;strada c a rosetti 25;515;strada coltei 25
+7;7;strada c a rosetti 44;522;strada coltei 44
+1;8;bulevardul carol i 17;382;bulevardul carol i 27
+1;9;strada covaci 1;563;strada covaci 
+1;10;strada covaci 6;563;strada covaci 
+1;11;strada covaci 19;564;strada covaci 16
+9;12;strada d i mendeleev 2;1243;strada mendeleev d i 29
+2;13;calea floreasca 112;790;calea floreasca 159
+1;14;strada franceza 22;825;strada franceza 12
+3;15;strada franceza 38-42;822;strada franceza 2-4
+1;16;strada franceza 54;827;strada franceza 14
+1;17;strada franceza 60;831;strada franceza 20
+2;18;strada gabroveni 55;527;strada gabroveni 
+8;19;strada gheorghe manea 15;322;strada burghelea 15
+13;20;bulevardul gheorghe marinescu 3;249;bulevardul botev hristo 3
+5;21;strada ghiocei 25;515;strada coltei 25
+10;22;strada grigore alexandrescu 78;1650;strada romano alexandru 8
+1;23;calea grivitei 143;894;calea grivitei 13
+4;24;strada halelor 5;951;strada halmeu 5
+4;25;strada halelor 7;952;strada halmeu 7
+6;26;strada halelor 13-15;953;strada halmeu 11-13
+4;27;strada halelor 17;954;strada halmeu 17
+9;28;bulevardul i c bratianu 5;1;bulevardul bratianu i c 1
+13;29;strada ienachita vacarescu 36;721;strada elias jacques 3
+9;30;strada ion brezoianu 44;294;strada brezoianu ion 1
+9;31;strada ion florescu 13;796;strada florescu ion 1
+10;32;bulevardul ion mihalache 68;1253;bulevardul mihalache ion 10
+9;33;bulevardul ion mihalache 181;1253;bulevardul mihalache ion 10
+7;34;strada ion neculce 74;1010;strada iorga nicolae 7
+10;35;strada iuliu barasch 12;714;strada dumbrava rosie 12
+11;36;bulevardul lascar catargiu 15a;552;bulevardul cosbuc george 15a
+11;37;bulevardul lascar catargiu 48;1833;bulevardul sincai gheorghe 4
+4;38;strada lipova 24;1072;strada lipscani 24
+1;39;strada lipscani 79;1050;strada lipscani 77
+1;40;strada lipscani 46;0;strada lipscani 16
+1;41;strada lipscani 38;3;strada lipscani 32
+8;42;strada louis pasteur 30;1103;strada lister 32
+9;43;strada maria rosetti 55;151;strada barierei 39
+9;44;strada maria rosetti 8a;151;strada barierei 39
+9;45;strada mihai eminescu 17;954;strada halmeu 17
+9;46;strada mihai eminescu 37;1248;strada mihai voda 7
+13;47;bulevardul nicolae balcescu 25;264;bulevardul botev hristo 25
+9;48;strada nicolae iorga 31;500;strada coltei 1
+4;49;strada occidentului 53-55;1352;strada occidentului 8-10
+2;50;strada paleologu 3;1337;strada paleologu 12
+8;51;strada petre cretu 68;185;strada berechet 10a
+1;52;strada plantelor 45;1446;strada plantelor 4
+1;53;strada plantelor 20;1448;strada plantelor 40
+6;54;strada plugarilor 46;1412;strada paris 46
+3;55;strada polona 24-26;1499;strada polona 22
+5;56;strada principatele unite 38-40;1538;strada principatele unite 63
+6;57;strada profesorilor 10;653;strada docentilor 10
+0;58;bulevardul regina maria 36-38;1177;bulevardul regina maria 36-38
+0;59;bulevardul regina elisabeta 21;611;bulevardul regina elisabeta 21
+0;60;bulevardul regina elisabeta 47;737;bulevardul regina elisabeta 47
+5;61;intrarea roma 3;1342;intrarea noptii 3
+0;62;piata romana 5;1646;piata romana 5
+5;63;strada salcamilor 12;1769;strada sfintilor 12
+1;64;strada sapientei 3;1712;strada sapientei 4
+6;65;strada sepcari 12-14;236;strada blanari 10-12
+4;66;strada sepcari 16;0;strada lipscani 16
+1;67;strada sfantul elefterie 11;1751;strada sfantul elefterie 1
+2;68;strada silvestru 79;880;strada silvestru 38
+4;69;strada sperantei 27;1802;strada sperantei 42-46
+1;70;strada stavropoleos 8;14;strada stavropoleos 3
+12;71;soseaua stefan cel mare 33;886;soseaua iancului 3
+11;72;strada stefan mihaileanu 11b;1814;strada stelea spatarul 11b
+1;73;strada stirbei voda 17;1841;strada stirbei voda 97
+7;74;strada vasile paun 5;1317;strada movila ion 5
+9;75;strada vasile stroescu 6;1066;strada silvestru 36
+2;76;calea victoriei 128a;1919;calea victoriei 12
+3;77;calea victoriei 33-35;1924;calea victoriei 33
+6;78;strada viesparilor 26;1952;strada visarion 4-6
+2;79;strada academiei 1;7;strada academiei 22
+2;80;strada academiei 15;6;strada academiei 3-5
+2;81;strada academiei 19-21;8;strada academiei 39-41
+11;82;strada alexandru beldiman 1;17;strada alecsandri vasile 5
+13;83;bulevardul alexandru ioan cuza 9;147;bulevardul banul manta 9
+14;84;piata alexandru lahovari 5a;36;aleea alexandru 5
+11;85;strada alexandru xenopol 3;17;strada alecsandri vasile 5
+4;86;strada arcului 4;148;strada banului 3
+2;87;strada armeneasca 17a;84;strada armeneasca 10
+2;88;strada armeneasca 28;84;strada armeneasca 10
+3;89;strada armeneasca 28a;84;strada armeneasca 10
+8;90;strada aurel vlaicu 55;127;strada avram iancu 1
+2;91;strada bacani 3-5;160;strada bacani 3
+1;92;strada baia de fier 1;135;strada baia de fier 1a
+0;93;strada baia de fier 1a;135;strada baia de fier 1a
+5;94;strada baltagului 17;811;strada fluviului 17
+1;95;strada baniei 1;171;strada baniei 3
+1;96;strada baratiei 29;178;strada baratiei 27
+1;97;strada baratiei 37;178;strada baratiei 27
+2;98;strada baratiei 41;178;strada baratiei 27
+2;99;strada baratiei 42b;178;strada baratiei 27
+2;100;strada baratiei 44;178;strada baratiei 27
+2;101;strada baratiei 50;178;strada baratiei 27
+3;102;strada batiste 5;152;strada batistei 13
+1;103;strada batiste 14;153;strada batistei 14
+6;104;strada bibescu voda 24;1429;strada patrascu voda 14
+1;105;strada biserica amzei 8;208;strada biserica amzei 6
+3;106;strada biserica enei 14;213;strada biserica amzei 14
+1;107;strada blanari 10;230;strada blanari 1
+1;108;strada blanari 11;230;strada blanari 1
+1;109;strada blanari 13;230;strada blanari 1
+1;110;strada bocsa 3;240;strada bocsa 2
+3;111;strada boteanu 3a-3b;245;strada botea 3-3a-3b
+4;112;strada brazilia 56;278;strada brailita 28
+1;113;strada buzesti 32a;328;strada buzesti 32
+1;114;strada buzesti 48;330;strada buzesti 44
+7;115;strada c a rosetti 27;517;strada coltei 27
+7;116;strada c a rosetti 42;521;strada coltei 42
+7;117;strada c a rosetti 43;478;strada cauzasi 43
+8;118;strada c a rosetti 43a;478;strada cauzasi 43
+11;119;strada caderea bastiliei 5;360;strada cameliei 1
+10;120;strada caderea bastiliei 16;1430;strada parvan vasile 12
+1;121;strada caimatei 18;333;strada caimatei 1
+1;122;calea calarasilor 99;419;calea calarasilor 59
+3;123;strada calusei 4;503;strada coltei 4
+1;124;strada cameliei 3;360;strada cameliei 1
+1;125;strada cameliei 4;360;strada cameliei 1
+1;126;strada cameliei 7;360;strada cameliei 1
+1;127;strada cameliei 35;365;strada cameliei 30
+1;128;bulevardul carol i 47;376;bulevardul carol i 4
+1;129;bulevardul carol i 51;388;bulevardul carol i 53
+1;130;bulevardul carol i 63;377;bulevardul carol i 6
+1;131;bulevardul carol i 76;377;bulevardul carol i 6
+4;132;bulevardul carol i 40-42;376;bulevardul carol i 4
+7;133;soseaua chitilei 73;886;soseaua iancului 3
+1;134;strada coltei 14;500;strada coltei 1
+13;135;strada constantin balacescu 12;531;strada constaninescu alexandru 42
+13;136;strada constantin balacescu 28;530;strada constaninescu alexandru 38
+12;137;strada constantin mille 14-16;641;strada doamnei 14-16
+12;138;strada constantintin silvestri 1;534;strada constaninescu mitrita 1
+8;139;strada costache negri 10;495;strada coanda henri 11
+9;140;strada d i mendeleev 26;1243;strada mendeleev d i 29
+10;141;strada d i mendeleev 17;84;strada armeneasca 10
+1;142;bulevardul dacia 43;592;bulevardul dacia 83
+1;143;bulevardul dacia 53;578;bulevardul dacia 56
+1;144;bulevardul dacia 102;354;bulevardul dacia 101
+1;145;bulevardul dacia 37;584;bulevardul dacia 67
+1;146;strada dianei 2;626;strada dianei 9
+1;147;strada dianei 5;626;strada dianei 9
+14;148;strada dimitrie bolintineanu 5;1256;strada miile constantin 1
+11;149;strada dimitrie onciul 29;621;strada demarat zossima 2
+11;150;strada dimitrie salmen 28;13;strada biserica amzei 22
+10;151;strada dionisie lupu 53;1675;strada romulus 53
+10;152;strada dionisie lupu 55;1000;strada ionescu tache 25
+1;153;calea dorobantilor 99;666;calea dorobantilor 39
+3;154;strada drobeta 3-5;670;strada drobeta 11
+1;155;strada eforiei 8;718;strada eforiei 2
+7;156;strada elena cuza 10;84;strada armeneasca 10
+11;157;strada emanoil bacaloglu 2;610;strada davila carol 4
+9;158;strada episcopul chesarie 18;756;strada episcopul radu 29
+10;159;strada eugeniu carada 3;567;strada cristian radu 3
+9;160;strada felicia racovita 5;773;strada felix lacob 51
+2;161;bulevardul ferdinand i 87;775;bulevardul ferdinand i 3
+2;162;calea floreasca 145;790;calea floreasca 159
+7;163;strada fluierului 17-17b;811;strada fluviului 17
+1;164;strada franceza 6;281;strada franceza 9
+1;165;strada franceza 52;825;strada franceza 12
+2;166;strada gabroveni 22;527;strada gabroveni 
+2;167;strada gabroveni 59;527;strada gabroveni 
+2;168;strada gabroveni 12;527;strada gabroveni 
+7;169;strada garii de nord 6-8;855;piata garii de nord 1
+9;170;strada george enescu 5;85;strada armeneasca 35
+9;171;strada george enescu 21;860;strada georgescu mihail 21
+12;172;bulevardul gheorghe magheru 22;395;bulevardul catargiu lascar 12
+11;173;bulevardul gheorghe magheru 29;398;bulevardul catargiu lascar 29
+12;174;bulevardul gheorghe magheru 27;397;bulevardul catargiu lascar 21
+12;175;bulevardul gheorghe magheru 6-8;801;bulevardul magheru gheorghe 8
+8;176;strada gina patrichi 5;1417;strada patriei 3
+9;177;strada gina patrichi 6a;1417;strada patriei 3
+6;178;soseaua giurgiului 38;886;soseaua iancului 3
+10;179;strada grigore alexandrescu 70;1651;strada romano alexandru 10
+10;180;strada grigore cobalcescu 6;882;strada grigorescu eremia 3
+9;181;strada grigore cobalcescu 16;887;strada grigorescu eremia 16
+10;182;strada grigore cobalcescu 27;888;strada grigorescu eremia 26
+10;183;strada grigore cobalcescu 30;882;strada grigorescu eremia 3
+10;184;strada grigore cobalcescu 38;882;strada grigorescu eremia 3
+11;185;strada grigore cobalcescu 41;882;strada grigorescu eremia 3
+11;186;strada grigore cobalcescu 43a;882;strada grigorescu eremia 3
+11;187;strada grigore cobalcescu 51;882;strada grigorescu eremia 3
+1;188;calea grivitei 103;894;calea grivitei 13
+4;189;calea grivitei 107-109;934;calea grivitei 115-117
+1;190;calea grivitei 125;932;calea grivitei 105
+1;191;calea grivitei 238;896;calea grivitei 23
+4;192;strada halelor 1;950;strada halmeu 1
+5;193;strada halelor 3;99;strada atena 3
+6;194;strada iacob felix 12;970;strada icoanei 12
+9;195;strada iacob negruzzi 32;970;strada icoanei 12
+8;196;strada ilarie chendi 17;495;strada coanda henri 11
+12;197;strada ioan budai deleanu 2;496;strada coanda henri 22
+8;198;strada ioan filitti 6;505;strada coltei 6
+9;199;strada ion andreescu 5;1724;strada scarlatescu 51
+8;200;strada ion andreescu 24;1514;strada popa rusu 24
+10;201;strada ion andreescu 26a;497;strada coanda henri 26
+9;202;strada ion brezoianu 6;294;strada brezoianu ion 1
+9;203;strada ion brezoianu 38;294;strada brezoianu ion 1
+9;204;strada ion brezoianu 38a;294;strada brezoianu ion 1
+9;205;strada ion brezoianu 46;294;strada brezoianu ion 1
+9;206;strada ion campineanu 9;479;strada campineanu ion 2
+8;207;strada ion campineanu 12;479;strada campineanu ion 2
+8;208;strada ion campineanu 22;479;strada campineanu ion 2
+4;209;strada ion ghica 3;632;strada doamna ghica 3
+10;210;strada ion luca caragiale 28;996;strada ionescu grigore 28
+5;211;intrarea italiana 4;224;intrarea bitolia 5
+12;212;strada jean louis calderon 22;227;strada blank louis 22
+13;213;strada jean louis calderon 36;226;strada blank louis 9a
+13;214;strada jean louis calderon 59;226;strada blank louis 9a
+13;215;strada jean louis calderon 61;226;strada blank louis 9a
+12;216;strada jean louis calderon 2;226;strada blank louis 9a
+15;217;strada joliot frederic curie 15;802;strada florescu ion 15
+8;218;strada joseph lister 11;1098;strada lister 17
+9;219;strada jules michelet 1;317;strada burghelea 1
+2;220;strada justitiei 29;1026;strada justitiei 36
+3;221;strada labirint 31;1058;strada labirint 108
+11;222;bulevardul lascar catargiu 44;1833;bulevardul sincai gheorghe 4
+9;223;strada leonida varnali 17;1128;strada londra 17
+1;224;strada lipscani 70;1034;strada lipscani 30
+1;225;strada lipscani 75;1050;strada lipscani 77
+1;226;strada lipscani 12;0;strada lipscani 16
+1;227;strada lipscani 21;1069;strada lipscani 1
+1;228;strada lipscani 29;1072;strada lipscani 24
+3;229;strada lipscani 31-33;1070;strada lipscani 17-23
+1;230;strada lipscani 57;1050;strada lipscani 77
+1;231;strada lipscani 61;1069;strada lipscani 1
+1;232;strada lipscani 94;1072;strada lipscani 24
+1;233;strada lizeanu 18;812;strada lizeanu 13
+1;234;strada lizeanu 19a;1106;strada lizeanu 19
+3;235;strada logofatul luca stroici 1;1117;strada logofatul luca stroici 33a
+3;236;strada logofatul luca stroici 7;1117;strada logofatul luca stroici 33a
+3;237;strada londra 16-20;11;strada londra 16
+3;238;strada lunii 2;1778;strada slanic 2
+3;239;strada lunii 8;1781;strada slanic 8
+2;240;strada mantuleasa 42;1232;strada mantuleasa 10
+9;241;strada maria rosetti 10;141;strada baia de fier 10
+9;242;strada maria rosetti 53;151;strada barierei 39
+5;243;strada matasari 12;103;strada atena 12
+5;244;strada matasari 44;153;strada batistei 14
+1;245;strada matei basarab 31;1205;strada matei basarab 51
+2;246;strada matei voievod 18;1213;strada matei voievod 31
+9;247;strada mihai eminescu 37;1248;strada mihai voda 7
+9;248;strada mihai eminescu 159;1252;strada mihai voda 15
+9;249;strada mihai eminescu 173;1251;strada mihai voda 13
+16;250;bulevardul mihail kogalniceanu 15-17;165;bulevardul balcescu nicolae 17-19
+13;251;bulevardul mihail kogalniceanu 23;1254;bulevardul mihalache ion 20
+8;252;strada poiana narciselor 7;1483;strada poiana florilor 15
+13;253;bulevardul mihail kogalniceanu 29;1254;bulevardul mihalache ion 20
+13;254;bulevardul mihail kogalniceanu 30;1253;bulevardul mihalache ion 10
+14;255;bulevardul mihail kogalniceanu 43;765;bulevardul eroii sanitari 73
+13;256;bulevardul mihail kogalniceanu 49;1726;bulevardul schitu magureanu 19
+14;257;bulevardul mihail kogalniceanu 51;761;bulevardul eroii sanitari 59
+4;258;strada mihail moxa 2;1247;strada mihai voda 5
+4;259;strada mihail moxa 14;1250;strada mihai voda 11
+4;260;strada mihail moxa 18;1250;strada mihai voda 11
+11;261;strada mircea vulcanescu 32a;1722;strada scarlatescu 20
+10;262;strada mircea vulcanescu 66;1271;strada mircea cel batran 16
+11;263;strada mircea vulcanescu 74;1271;strada mircea cel batran 16
+1;264;aleea modrogan 14;1283;aleea modrogan 1
+1;265;calea mosilor 96;1275;calea mosilor 91
+2;266;calea mosilor 131;1261;calea mosilor 71
+1;267;calea mosilor 149;1287;calea mosilor 19
+6;268;intrarea nestorel 5;224;intrarea bitolia 5
+13;269;bulevardul nicolae balcescu 7;252;bulevardul botev hristo 7
+13;270;bulevardul nicolae balcescu 30;268;bulevardul botev hristo 30
+15;271;bulevardul nicolae balcescu 32-34;383;bulevardul carol i 31-33
+10;272;strada nicolae golescu 5;1245;strada michelet jules 8
+13;273;bulevardul nicolae grigorescu 41;1833;bulevardul sincai gheorghe 4
+8;274;strada nicolae iorga 22;513;strada coltei 22
+12;275;strada nicolae mavrogheni 15;495;strada coanda henri 11
+10;276;strada nicolae tonitza 3;502;strada coltei 3
+10;277;strada nicolae tonitza 11;867;strada ghica ion 11
+11;278;intrarea nicolae vermont 6;57;intrarea alexe marin 6
+5;279;strada ostasilor 4;782;strada fetitelor 4
+12;280;bulevardul pache protopopescu 66;1544;bulevardul protopopescu pache 6
+13;281;bulevardul pache protopopescu 91;1541;bulevardul protopopescu pache 2
+13;282;bulevardul pache protopopescu 113;1539;bulevardul protopopescu pache 1-3
+13;283;piata pache protopopescu 11;1552;piata protopopescu pache 3
+2;284;soseaua panduri 36;683;soseaua panduri 28
+2;285;soseaua panduri 90;683;soseaua panduri 28
+0;286;strada patrascu voda 5;693;strada patrascu voda 5
+0;287;strada patrascu voda 7;1426;strada patrascu voda 7
+0;288;strada patrascu voda 8;1427;strada patrascu voda 8
+5;289;strada pitar mos 27;1406;strada paris 27
+6;290;strada pitar mos 29;1404;strada paris 21
+1;291;strada plantelor 47;1446;strada plantelor 4
+1;292;strada plantelor 45;1446;strada plantelor 4
+2;293;calea plevnei 1;1375;calea plevnei 134
+4;294;strada poenaru bordea 12-14;1482;strada poenaru bordea 2
+2;295;strada poenaru bordea 16;1482;strada poenaru bordea 2
+7;296;strada poiana narciselor 5;1483;strada poiana florilor 15
+1;297;strada polona 70;1492;strada polona 10
+6;298;strada popisteanu 10;812;strada lizeanu 13
+8;299;strada precupetii vechi 51;406;strada cavafii vechi 11
+5;300;strada radu cristian 4;1843;strada teii cristian 9
+13;301;strada radu de la afumati 27;1566;strada radu voda 24a
+13;302;strada radu de la afumati 53;136;strada baia de fier 3
+1;303;calea rahovei 63;1575;calea rahovei 163
+2;304;bulevardul regina maria 33-35;1177;bulevardul regina maria 36-38
+1;305;bulevardul regina elisabeta 24;611;bulevardul regina elisabeta 21
+1;306;bulevardul regina elisabeta 35;723;bulevardul regina elisabeta 3
+1;307;bulevardul regina elisabeta 44;735;bulevardul regina elisabeta 41
+1;308;bulevardul regina elisabeta 69;726;bulevardul regina elisabeta 9
+2;309;bulevardul regina maria 33-35;1177;bulevardul regina maria 36-38
+1;310;bulevardul regina maria 33;1175;bulevardul regina maria 32
+1;311;piata romana 9;1645;piata romana 1
+1;312;strada romulus 28;1632;strada romulus 18
+2;313;strada ronda 10;1125;strada londra 10
+5;314;strada sabinelor 90;1767;strada sfintilor 9
+1;315;strada sapientei 1;1712;strada sapientei 4
+1;316;strada sapientei 1;1712;strada sapientei 4
+9;317;strada scarlat varnav 33;1722;strada scarlatescu 20
+2;318;bulevardul schitu magureanu 3;1726;bulevardul schitu magureanu 19
+8;319;intrarea sectorului 18;1728;intrarea sevastopol 1
+3;320;strada selari 22;1358;strada olari 32
+5;321;strada semilunei 8;1823;strada scoalei 8
+5;322;strada sepcari 10;0;strada lipscani 16
+2;323;calea serban voda 139;1825;calea serban voda 29
+1;324;calea serban voda 180;1830;calea serban voda 183
+7;325;strada sfantul constantin 1;1256;strada miile constantin 1
+7;326;strada sfantul constantin 31;1350;strada nottara constantin 31
+2;327;strada sfintii apostoli 35;1759;strada sfintii apostoli 1
+11;328;strada sipotul fantanilor 5;1446;strada plantelor 4
+6;329;intrarea slobozia 6;224;intrarea bitolia 5
+1;330;strada smardan 18;1788;strada smardan 11
+2;331;strada smardan 26;1785;strada smardan 3
+1;332;strada spatarului 1;1799;strada spatarului 3
+1;333;strada spatarului 36;1799;strada spatarului 3
+3;334;strada sperantei 24;1802;strada sperantei 42-46
+12;335;soseaua stefan cel mare 31;886;soseaua iancului 3
+9;336;strada stefan luchian 3;148;strada banului 3
+10;337;strada stefan luchian 12c;1868;strada traian 121
+11;338;strada stefan mihaileanu 8;1810;strada stelea spatarul 8
+2;339;strada stelea spataru 17;1668;strada stelea spatarul 18
+2;340;strada stirbei voda 16;1839;strada stirbei voda 35
+2;341;strada stirbei voda 20;1839;strada stirbei voda 35
+2;342;strada stirbei voda 22;1839;strada stirbei voda 35
+2;343;strada stirbei voda 126;1842;strada stirbei voda 152
+9;344;strada drumul taberei 30;1221;strada mamulari 3
+9;345;strada tache ionescu 3;85;strada armeneasca 35
+2;346;strada tepes voda 84c;1898;strada tepes voda 86a
+10;347;strada titu maiorescu 16;821;strada frumoasa 16
+9;348;strada tudor arghezi 54;637;strada doamnei 5
+9;349;strada tudor arghezi 26;340;strada doamnei 20
+5;350;splaiul unirii 66-68;1899;splaiul unirii 173
+2;351;splaiul unirii 78;1899;splaiul unirii 173
+3;352;splaiul unirii 98;1899;splaiul unirii 173
+2;353;strada vanatori 1a;1906;strada vanatori 4
+4;354;strada vanatori 3-3a;1906;strada vanatori 4
+2;355;strada vanatori 17;1906;strada vanatori 4
+5;356;strada vaselor 38;368;strada cameliei 38
+5;357;strada vaselor 44;1446;strada plantelor 4
+8;358;strada vasile lascar 18;84;strada armeneasca 10
+11;359;strada vasile lascar 26-28;612;strada davila carol 8
+9;360;strada vasile lucaciu 15;967;strada hasdeu iulia 15
+9;361;strada vasile lucaciu 18;612;strada davila carol 8
+10;362;strada vasile lucaciu 90;610;strada davila carol 4
+9;363;strada vasile parvan 2-4;610;strada davila carol 4
+1;364;calea victoriei 31;1918;calea victoriei 11
+1;365;calea victoriei 52;4;calea victoriei 56
+4;366;calea victoriei 87-89;1914;calea victoriei 7
+1;367;calea victoriei 95;1915;calea victoriei 9
+1;368;calea victoriei 101;1918;calea victoriei 11
+1;369;calea victoriei 112;1805;calea victoriei 192
+1;370;calea victoriei 124;1919;calea victoriei 12
+1;371;calea victoriei 139;1921;calea victoriei 13
+1;372;calea victoriei 208;1949;calea victoriei 202
+1;373;calea victoriei 220;1902;calea victoriei 22
+2;374;strada viitorului 114;1951;strada viitorului 94
+3;375;strada viitorului 116;1951;strada viitorului 94
+3;376;strada viitorului 138;1951;strada viitorului 94
+4;377;strada visinilor 13;1770;strada sfintilor 13
+2;378;strada vulturilor 25;2013;strada vulturilor 3
+2;379;strada washington 17;2014;strada washington 9
+7;380;strada zece mese 12;362;strada cameliei 12
+7;381;strada zece mese 21;512;strada coltei 21
+2;382;strada 11 iunie 15;5;strada 11 iunie 2
+2;383;strada 11 iunie 18;5;strada 11 iunie 2
+2;384;strada 11 iunie 67;5;strada 11 iunie 2
+2;385;strada academiei 4-6;6;strada academiei 3-5
+7;386;strada agricultori 43;1326;strada negustori 3
+7;387;strada agricultori 74;1329;strada negustori 7
+7;388;strada agricultori 75;1327;strada negustori 5
+7;389;strada agricultori 76;1329;strada negustori 7
+16;390;bulevardul alexandru averescu 26-28;1177;bulevardul regina maria 36-38
+13;391;strada alexandru deparateanu 19;21;strada alecsandri vasile 9
+13;392;strada alexandru deparateanu 22;26;strada alecsandri vasile 20
+9;393;strada alexandru donici 30;22;strada alecsandri vasile 10
+8;394;strada alexandru donici 6;18;strada alecsandri vasile 6
+13;395;bulevardul alexandru ioan cuza 10;290;bulevardul bratianu i c 10
+14;396;bulevardul alexandru ioan cuza 80;290;bulevardul bratianu i c 10
+14;397;bulevardul alexandru ioan cuza 97;147;bulevardul banul manta 9
+12;398;bulevardul alexandru obregia 30;1175;bulevardul regina maria 32
+11;399;bulevardul alexandru obregia 32;1175;bulevardul regina maria 32
+11;400;bulevardul alexandru obregia 34;1176;bulevardul regina maria 34
+11;401;bulevardul alexandru obregia 40;1178;bulevardul regina maria 40
+9;402;strada anastasie simu 6;139;strada baia de fier 6
+10;403;strada anghel saligny 6;863;strada ghica ion 4
+5;404;strada arcului 26;148;strada banului 3
+5;405;strada ardeleni 16;104;strada atena 16
+9;406;strada aristide pascal 14;84;strada armeneasca 10
+1;407;strada armeneasca 12;84;strada armeneasca 10
+2;408;strada armeneasca 43;84;strada armeneasca 10
+8;409;strada aurel vlaicu 39;127;strada avram iancu 1
+5;410;strada austrului 14;90;strada atelierului 14
+4;411;strada balcesti 9;275;strada bradesti 3
+8;412;strada baltagului 13-15;148;strada banului 3
+1;413;strada banului 3a;148;strada banului 3
+11;414;strada barbu iscovescu 25;150;strada barasch iuliu 15
+7;415;bulevardul basarabia 28;579;bulevardul dacia 58
+2;416;strada batiste 35;158;strada batistei 39
+11;417;strada benjamin franklin 9;1385;strada pann anton 9
+8;418;strada bibescu voda 18-20;1315;strada patrascu voda 12
+6;419;strada bibescu voda 24;1429;strada patrascu voda 14
+4;420;intrarea biserica alba 3;222;intrarea biserica rasvan 3
+1;421;strada biserica amzei 27;13;strada biserica amzei 22
+1;422;strada biserica amzei 2-4;189;strada biserica amzei 24
+2;423;calea calarasilor 317;197;calea calarasilor 57
+1;424;calea calarasilor 39;408;calea calarasilor 34
+8;425;strada caminului 22-24;148;strada banului 3
+11;426;strada campia libertatii 6;360;strada cameliei 1
+11;427;strada campia libertatii 31;360;strada cameliei 1
+11;428;strada campia libertatii 40;361;strada cameliei 10
+1;429;bulevardul carol i 12;380;bulevardul carol i 112
+1;430;bulevardul carol i 28;378;bulevardul carol i 8
+1;431;bulevardul carol i 48;376;bulevardul carol i 4
+10;432;strada cezar bolliac 11c;1250;strada mihai voda 11
+12;433;strada ciprian porumbescu 4;566;strada cristian radu 2
+11;434;strada ciprian porumbescu 8;570;strada cristian radu 8
+13;435;strada ciprian porumbescu 10;210;strada biserica amzei 10
+5;436;strada ciresului 29;1772;strada silozului 25
+14;437;strada clucerul udricani 12bis;1977;strada voinicului 2bis
+1;438;soseaua colentina 5;499;soseaua colentina 
+1;439;soseaua colentina 7;499;soseaua colentina 
+1;440;soseaua colentina 9;499;soseaua colentina 
+2;441;soseaua colentina 11;499;soseaua colentina 
+2;442;soseaua colentina 21;499;soseaua colentina 
+2;443;soseaua colentina 31;499;soseaua colentina 
+2;444;soseaua colentina 33;499;soseaua colentina 
+2;445;soseaua colentina 39;499;soseaua colentina 
+6;446;strada concordiei 7;506;strada coltei 7
+12;447;strada constantin balescu 22;496;strada coanda henri 22
+12;448;strada constantin disescu 22;496;strada coanda henri 22
+10;449;strada constantin esarhu 3;567;strada cristian radu 3
+12;450;strada constantin mille 14-16;641;strada doamnei 14-16
+9;451;strada constantin nacu 4;566;strada cristian radu 2
+8;452;strada constantin nacu 7;569;strada cristian radu 7
+8;453;strada constantin nacu 8;570;strada cristian radu 8
+12;454;strada constantin sandu aldea 65;533;strada constaninescu alexandru 55
+4;455;strada corbeni 37;502;strada coltei 3
+11;456;bulevardul corneliu coposu 1;875;bulevardul golescu dinicu 16
+11;457;bulevardul corneliu coposu 1;875;bulevardul golescu dinicu 16
+0;458;soseaua cotroceni 32;562;soseaua cotroceni 32
+1;459;strada covaci 10;564;strada covaci 16
+1;460;strada covaci 14;564;strada covaci 16
+9;461;strada d i mendeleev 19;1243;strada mendeleev d i 29
+9;462;strada d i mendeleev 37;1222;strada mendeleev d i 34
+9;463;strada d i mendeleev 39;1222;strada mendeleev d i 34
+1;464;bulevardul dacia 33;592;bulevardul dacia 83
+1;465;bulevardul dacia 47;584;bulevardul dacia 67
+1;466;bulevardul dacia 49;585;bulevardul dacia 69
+1;467;bulevardul dacia 88;579;bulevardul dacia 58
+1;468;bulevardul dacia 109;354;bulevardul dacia 101
+1;469;bulevardul dacia 171;354;bulevardul dacia 101
+1;470;bulevardul dacia 173;464;bulevardul dacia 103
+1;471;bulevardul dacia 28;579;bulevardul dacia 58
+7;472;intrarea dacilor 4;224;intrarea bitolia 5
+12;473;strada david praporgescu 11;127;strada avram iancu 1
+5;474;strada despot voda 7;1067;strada leon voda 3
+5;475;strada diminetii 1;542;strada doamnei 1
+13;476;bulevardul dimitrie cantemir 13a;759;bulevardul eroii sanitari 12
+11;477;bulevardul dimitrie cantemir 15;1965;bulevardul vladimirescu tudor 15
+12;478;bulevardul dimitrie cantemir 15a;1965;bulevardul vladimirescu tudor 15
+12;479;strada dimitrie onciul 16a;88;strada armindenului 12
+12;480;strada dimitrie onciul 29a;621;strada demarat zossima 2
+13;481;bulevardul dinicu golescu 23-25;539;bulevardul coposu corneliu 35
+9;482;bulevardul dinicu golescu 7;1166;bulevardul maniu iuliu 9
+10;483;strada dionisie lupu 35;1000;strada ionescu tache 25
+1;484;strada domnita anastasia 15;655;strada domnita anastasia 1
+1;485;calea dorobantilor 10;664;calea dorobantilor 16
+1;486;calea dorobantilor 65;668;calea dorobantilor 60
+1;487;calea dorobantilor 73;669;calea dorobantilor 72
+1;488;strada drobeta 1;670;strada drobeta 11
+2;489;strada drobeta 7;670;strada drobeta 11
+1;490;strada dumbrava rosie 22;704;strada dumbrava rosie 2
+1;491;strada dumbrava rosie 24;704;strada dumbrava rosie 2
+8;492;strada edgar quinet 3;636;strada doamnei 3
+8;493;strada edgar quinet 5;637;strada doamnei 5
+3;494;strada elena 2;99;strada atena 3
+2;495;strada elena 4;100;strada atena 4
+3;496;strada episcopiei 2-4;755;strada episcopiei 1
+1;497;strada episcopiei 5;755;strada episcopiei 1
+1;498;strada episcopiei 6;755;strada episcopiei 1
+2;499;strada episcopul radu 42;756;strada episcopul radu 29
+5;500;strada fagaras 16;11;strada londra 16
+1;501;bulevardul ferdinand i 51;778;bulevardul ferdinand i 31
+1;502;strada fluviului 18;809;strada fluviului 10
+1;503;strada frumoasa 17;821;strada frumoasa 16
+5;504;intrarea frumoasa 6;821;strada frumoasa 16
+1;505;strada icoanei 69;975;strada icoanei 60
+3;506;strada gabroveni 6-8;527;strada gabroveni 
+7;507;strada garii de nord 2-4;855;piata garii de nord 1
+7;508;strada garii de nord 6-8;855;piata garii de nord 1
+9;509;strada george enescu 5;85;strada armeneasca 35
+9;510;strada george enescu 33;85;strada armeneasca 35
+9;511;strada george enescu 7;1699;strada russo alecu 7
+9;512;strada george enescu 9;856;strada georgescu mihail 9
+10;513;strada georges clemenceau 4;856;strada georgescu mihail 9
+12;514;bulevardul gheorghe i duca 17;1;bulevardul bratianu i c 1
+11;515;bulevardul gheorghe i duca 8;394;bulevardul catargiu lascar 8
+9;516;strada gheorghe lazar 4;317;strada burghelea 1
+8;517;strada gheorghe lazar 5;319;strada burghelea 5
+11;518;bulevardul gheorghe magheru 7;801;bulevardul magheru gheorghe 8
+13;519;bulevardul gheorghe magheru 32-36;1153;bulevardul magheru gheorghe 12-14
+12;520;bulevardul gheorghe magheru 2-4;1153;bulevardul magheru gheorghe 12-14
+11;521;bulevardul gheorghe magheru 20;847;bulevardul magheru gheorghe 10
+11;522;strada gheorghe mandrea 4;317;strada burghelea 1
+9;523;strada gheorghe manu 18;317;strada burghelea 1
+13;524;bulevardul gheorghe marinescu 19;875;bulevardul golescu dinicu 16
+12;525;strada gheorghe petrascu 14a;321;strada burghelea 14
+11;526;strada gheorghe polizu 30;318;strada burghelea 3
+19;527;strada gheorghe pop de basesti 43-45;861;strada georgescu mihail 23
+1;528;strada ionescu gion gh 2;1004;strada ionescu gion gh 1
+10;529;soseaua giurgiului 72-86;886;soseaua iancului 3
+9;530;soseaua giurgiului 120a;886;soseaua iancului 3
+8;531;soseaua giurgiului 126;886;soseaua iancului 3
+1;532;calea grivitei 236;896;calea grivitei 23
+1;533;calea grivitei 395;904;calea grivitei 39
+1;534;calea grivitei 139;894;calea grivitei 13
+1;535;calea grivitei 174;923;calea grivitei 74
+2;536;calea grivitei 188;893;calea grivitei 11
+8;537;strada henri coanda 33;848;strada frumoasa 33
+16;538;strada henri mathias berthelot 27;1381;strada pangratti ermil 2a
+17;539;strada henri mathias berthelot 36;280;strada bratianu gheorghe 26
+8;540;bulevardul i c bratianu 12;289;bulevardul bratianu i c 2
+7;541;strada iacob felix 11;970;strada icoanei 12
+2;542;strada icoanei 25;2;strada icoanei 3-5
+13;543;strada ienachita vacarescu 34;610;strada davila carol 4
+2;544;strada ilfov 1b;981;strada ilfov 3
+0;545;splaiul independentei 2k;984;splaiul independentei 2k
+5;546;intrarea ioanid 4;1340;intrarea noptii 1
+7;547;strada ion berindei 8;1065;strada lebedei 8
+8;548;strada ion brezoianu 11;294;strada brezoianu ion 1
+9;549;strada ion brezoianu 29a;294;strada brezoianu ion 1
+9;550;strada ion brezoianu 53a;294;strada brezoianu ion 1
+9;551;strada ion brezoianu 53b;294;strada brezoianu ion 1
+9;552;strada ion campineanu 1;127;strada avram iancu 1
+9;553;strada ion campineanu 13;479;strada campineanu ion 2
+9;554;strada ion campineanu 20a;479;strada campineanu ion 2
+9;555;strada ion campineanu 25;479;strada campineanu ion 2
+9;556;strada ion campineanu 31;479;strada campineanu ion 2
+9;557;strada ion campineanu 31;479;strada campineanu ion 2
+13;558;intrarea ion luca caragiale 8;58;intrarea alexe marin 8
+9;559;bulevardul ion mihalache 325;1254;bulevardul mihalache ion 20
+7;560;strada ion nistor 4;1096;strada lister 6
+9;561;strada ion slatineanu 4;963;strada lizeanu 14
+8;562;bulevardul iuliu maniu 57;937;bulevardul regina maria 54
+13;563;strada jean louis calderon 40;226;strada blank louis 9a
+13;564;strada jean louis calderon 76;226;strada blank louis 9a
+15;565;strada joliot frederic curie 7;19;strada alecsandri vasile 7
+15;566;strada joliot frederic curie 10;22;strada alecsandri vasile 10
+8;567;strada joseph lister 1;1096;strada lister 6
+9;568;strada jules michelet 19;325;strada burghelea 19
+10;569;strada jules michelet 25;319;strada burghelea 5
+12;570;bulevardul lascar catargiu 11a;379;bulevardul carol i 110
+11;571;bulevardul lascar catargiu 1;1833;bulevardul sincai gheorghe 4
+6;572;strada litovoi voievod 1;1213;strada matei voievod 31
+0;573;strada coltei 48;524;strada coltei 48
+2;574;strada luterana 5;1152;strada luterana 14
+10;575;strada alexandru campeanu 13;23;strada alecsandri vasile 13
+11;576;strada alexandru campeanu 29;21;strada alecsandri vasile 9
+1;577;strada mantuleasa 16;1232;strada mantuleasa 10
+5;578;bulevardul marasesti 100;1223;bulevardul marasti 61
+9;579;strada maria rosetti 16;151;strada barierei 39
+9;580;strada maria rosetti 26;151;strada barierei 39
+8;581;strada maria rosetti 31;151;strada barierei 39
+9;582;strada maria rosetti 43;151;strada barierei 39
+9;583;strada maria rosetti 8;140;strada baia de fier 8
+2;584;strada masina de paine 39;1194;strada masina de paine 47
+2;585;strada masina de paine 6;1194;strada masina de paine 47
+2;586;strada masina de paine 69;1194;strada masina de paine 47
+2;587;strada masina de paine 8;1194;strada masina de paine 47
+6;588;strada matei millo 12;1214;strada matei voievod 32
+7;589;strada maxim gorki 1;333;strada caimatei 1
+14;590;soseaua mihai bravu 107-119;1250;strada mihai voda 11
+10;591;soseaua mihai bravu 90-96;1379;soseaua panduri 90-92
+10;592;strada mihai eminescu 34;85;strada armeneasca 35
+10;593;strada mihai eminescu 75a;1247;strada mihai voda 5
+13;594;bulevardul mihail kogalniceanu 16;1253;bulevardul mihalache ion 10
+14;595;bulevardul mihail kogalniceanu 37;540;bulevardul coposu corneliu 37
+11;596;strada mircea vulcanescu 108;1271;strada mircea cel batran 16
+11;597;strada mitropolit nifon 30;1262;strada minovici nicolae 3
+1;598;aleea modrogan 14;1283;aleea modrogan 1
+1;599;calea mosilor 59;1287;calea mosilor 19
+2;600;calea mosilor 126a;1311;calea mosilor 122
+2;601;calea mosilor 133;1287;calea mosilor 19
+2;602;calea mosilor 145;1287;calea mosilor 19
+1;603;calea mosilor 42;1292;calea mosilor 32
+3;604;strada nera 2;81;strada ankara 2
+14;605;bulevardul nicolae balcescu 35-35a;169;bulevardul balcescu nicolae 35-35a
+13;606;bulevardul nicolae balcescu 21;261;bulevardul botev hristo 21
+13;607;bulevardul nicolae balcescu 18;760;bulevardul eroii sanitari 18
+9;608;strada nicolae golescu 20;1722;strada scarlatescu 20
+9;609;strada nicolae iorga 17;500;strada coltei 1
+10;610;strada nicolae tonitza 13;1251;strada mihai voda 13
+11;611;strada niculae t sebe 11;144;strada balaban emil 11
+7;612;aleea otesani 1-7;38;aleea alexandru 7
+12;613;bulevardul pache protopopescu 34;1542;bulevardul protopopescu pache 4
+12;614;bulevardul pache protopopescu 44;1542;bulevardul protopopescu pache 4
+13;615;piata pache protopopescu 2;1552;piata protopopescu pache 3
+13;616;piata pache protopopescu 15;1552;piata protopopescu pache 3
+6;617;strada palade gheorghe 1;1167;strada manu gheorghe 7
+1;618;strada paleologu 15;1337;strada paleologu 12
+2;619;soseaua panduri 30;683;soseaua panduri 28
+8;620;soseaua pantelimon 235;683;soseaua panduri 28
+1;621;strada sfantul stefan 4;1758;strada sfantul stefan 
+1;622;strada parfumului 28;1393;strada parfumului 18
+1;623;strada paris 4;1399;strada paris 5
+1;624;strada paris 40;1410;strada paris 40a
+3;625;strada pasului 5;148;strada banului 3
+6;626;strada patriotilor 3a;1417;strada patriei 3
+8;627;strada piata amzei 7-9;6;strada academiei 3-5
+3;628;piata garii filaret 2;853;piata gara filaret 1
+6;629;strada pitar mos 19;1401;strada paris 13
+12;630;aleea poiana muntelui 2;490;aleea circului 15
+1;631;strada polona 42;1487;strada polona 2
+1;632;strada polona 47;1488;strada polona 4
+1;633;strada polona 75;1495;strada polona 15
+9;634;strada pompiliu eliade 4;1517;strada popa soare 4
+4;635;strada popa nan 19;1498;strada polona 19
+4;636;strada popa nan 76;1510;strada polona 76
+5;637;strada popa petre 37;1516;strada popa soare 2
+5;638;strada popa tatu 76;1514;strada popa rusu 24
+5;639;strada popa tatu 78;1514;strada popa rusu 24
+6;640;strada postavarul 6;1529;strada postei 6
+4;641;strada poteras 35;1135;strada londra 35
+2;642;strada povernei 6-8;1533;strada povernei 1-3
+6;643;aleea pravat 2;1284;aleea modrogan 2
+7;644;strada prisaca dornei 6;1978;strada vraca george 6
+16;645;intrarea procopie dumitrescu 3;55;intrarea alexe marin 2
+0;646;bulevardul regina elisabeta 5;725;bulevardul regina elisabeta 5
+0;647;bulevardul regina elisabeta 25;728;bulevardul regina elisabeta 25
+1;648;bulevardul regina elisabeta 16;729;bulevardul regina elisabeta 26
+2;649;bulevardul regina maria 33-35;1177;bulevardul regina maria 36-38
+8;650;intrarea rigas 29b;224;intrarea bitolia 5
+1;651;strada roma 8;1633;strada roma 7
+1;652;strada romulus 64;1662;strada romulus 4
+4;653;strada schitu darvari 14a;1725;strada schitul darvari 3
+1;654;bulevardul schitu magureanu 17;1726;bulevardul schitu magureanu 19
+2;655;bulevardul schitu magureanu 25;1726;bulevardul schitu magureanu 19
+1;656;bulevardul schitu magureanu 39;1726;bulevardul schitu magureanu 19
+4;657;strada selari 13;1356;strada olari 6
+1;658;calea serban voda 31;1826;calea serban voda 33
+2;659;calea serban voda 105;1828;calea serban voda 123
+1;660;calea serban voda 124;1828;calea serban voda 123
+5;661;strada sfanta maria 51;1743;strada sfanta treime 51
+8;662;strada sfantul constantin 24;1702;strada sandu aldea constantin 14
+1;663;strada sfantul elefterie 14;1751;strada sfantul elefterie 1
+1;664;strada sfantul elefterie 16;1751;strada sfantul elefterie 1
+1;665;strada sfintii apostoli 40;1763;strada sfintii apostoli 60
+8;666;strada sfintii voievozi 29;1759;strada sfintii apostoli 1
+8;667;strada sfintii voievozi 55;1217;strada matei voievod 35
+3;668;strada silfidelor 4;1771;strada silfidelor 3-7
+7;669;strada spataru preda 5;693;strada patrascu voda 5
+7;670;strada spataru preda 5;693;strada patrascu voda 5
+7;671;strada spataru preda 5;693;strada patrascu voda 5
+16;672;strada spatarul nicolae milescu 6;1009;strada iorga nicolae 1
+1;673;strada spatarului 1a;1800;strada spatarului 19
+5;674;strada sperantei 13;1802;strada sperantei 42-46
+3;675;strada sperantei 26;1802;strada sperantei 42-46
+7;676;intrarea stafetei 2a;1341;intrarea noptii 2
+12;677;soseaua stefan cel mare 5;886;soseaua iancului 3
+13;678;soseaua stefan cel mare 18;683;soseaua panduri 28
+13;679;soseaua stefan cel mare 20;683;soseaua panduri 28
+13;680;soseaua stefan cel mare 27;683;soseaua panduri 28
+13;681;soseaua stefan cel mare 42;886;soseaua iancului 3
+11;682;strada stefan mihaileanu 7;1748;strada sfanta vineri 7
+12;683;strada stefan mihaileanu 11a;1813;strada stelea spatarul 10a
+12;684;strada stefan protopopescu 1;14;strada stavropoleos 3
+1;685;strada stelea spataru 12;1815;strada stelea spatarul 12
+2;686;strada stirbei voda 23;1839;strada stirbei voda 35
+1;687;strada stirbei voda 122;1842;strada stirbei voda 152
+2;688;strada stirbei voda 129;1840;strada stirbei voda 39
+6;689;strada straduintei 6;565;strada credintei 2a
+10;690;strada drumul taberei 20;337;strada caimatei 20
+5;691;strada tache gheorghe 13;1169;strada manu gheorghe 12
+9;692;strada tache ionescu 8;127;strada avram iancu 1
+8;693;strada targu neamt 2;81;strada ankara 2
+6;694;strada teleajen 42;201;strada berzei 42
+6;695;strada teleajen 72;979;strada icoanei 72
+12;696;strada teodosie rudeanu 70;94;strada atelierului 20
+1;697;strada toamnei 8;1846;strada toamnei 83
+2;698;strada toamnei 121;640;strada doamnei 12
+2;699;strada toamnei 125;640;strada doamnei 12
+4;700;strada toamnei 56-58;638;strada doamnei 6-10
+7;701;strada trei scaune 15;0;strada lipscani 16
+8;702;strada tudor arghezi 23;648;strada doamnei 23
+9;703;strada tudor arghezi 32;636;strada doamnei 3
+11;704;strada valeriu braniste 23;1145;strada lupu dionisie 37
+11;705;strada valeriu braniste 60a;1148;strada lupu dionisie 68
+8;706;strada vasile conta 14;610;strada davila carol 4
+9;707;strada vasile conta 3-5;2;strada icoanei 3-5
+10;708;strada vasile conta 7-9;610;strada davila carol 4
+8;709;strada vasile lascar 8;612;strada davila carol 8
+7;710;strada vasile lascar 10;84;strada armeneasca 10
+10;711;strada vasile lascar 23-25;85;strada armeneasca 35
+9;712;strada vasile lascar 46;84;strada armeneasca 10
+8;713;strada vasile lascar 100;84;strada armeneasca 10
+9;714;strada vasile lascar 111;84;strada armeneasca 10
+8;715;strada vasile lucaciu 4;610;strada davila carol 4
+11;716;strada vasile lucaciu 101;15;strada carada eugeniu 1-3
+8;717;strada victor babes 7;973;strada icoanei 57
+1;718;calea victoriei 1-5;1935;calea victoriei 115
+2;719;calea victoriei 2-4;1376;calea victoriei 23
+2;720;calea victoriei 22-24;1927;calea victoriei 42-44
+1;721;calea victoriei 25;1376;calea victoriei 23
+4;722;calea victoriei 103-105;1933;calea victoriei 110
+2;723;calea victoriei 128b;1919;calea victoriei 12
+1;724;calea victoriei 136;1921;calea victoriei 13
+1;725;calea victoriei 143;1921;calea victoriei 13
+1;726;calea victoriei 214;1922;calea victoriei 14
+8;727;soseaua viilor 95;683;soseaua panduri 28
+5;728;strada viisoarei 2;334;strada caimatei 2
+3;729;strada viitorului 107;1951;strada viitorului 94
+2;730;strada visarion 3;1953;strada visarion 14
+2;731;strada vulturilor 48;2013;strada vulturilor 3
+1;732;strada washington 2;2014;strada washington 9
+1;733;strada washington 4;2014;strada washington 9
+2;734;strada academiei 1a;7;strada academiei 22
+7;735;strada ady endre 7;99;strada atena 3
+7;736;strada agricultori 74;1329;strada negustori 7
+12;737;bulevardul alexandru obregia 2;1175;bulevardul regina maria 32
+4;738;strada armoniei 1;360;strada cameliei 1
+7;739;strada aura buzescu 1;127;strada avram iancu 1
+8;740;strada aurel vlaicu 68;127;strada avram iancu 1
+1;741;bulevardul aviatorilor 65;112;bulevardul aviatorilor 5
+3;742;strada baladei 3;160;strada bacani 3
+4;743;strada balcesti 9;275;strada bradesti 3
+1;744;bulevardul banul manta 7;147;bulevardul banul manta 9
+12;745;aleea barajul sadului 3-5;46;aleea alexandru 35
+4;746;strada brasov 19;1563;strada rabat 19
+7;747;strada c a rosetti 34;366;strada cameliei 34
+11;748;strada caderea bastiliei 19a;1430;strada parvan vasile 12
+1;749;calea calarasilor 41;310;calea calarasilor 61
+4;750;strada calusei 11;172;strada baniei 11
+2;751;strada clopotarii vechi 18;493;strada clopotarii vechi 4
+10;752;strada constantin coanda 5;568;strada cristian radu 5
+12;753;strada constantin radulescu motru 8;534;strada constaninescu mitrita 1
+4;754;strada crisana 7;1845;strada tirana 1
+1;755;bulevardul dacia 51;578;bulevardul dacia 56
+1;756;bulevardul dacia 88;579;bulevardul dacia 58
+2;757;bulevardul dacia 178;354;bulevardul dacia 101
+1;758;calea dorobantilor 47;667;calea dorobantilor 49
+1;759;calea dorobantilor 71;669;calea dorobantilor 72
+13;760;intrarea dumitrescu procopie 4;606;intrarea dascalu nicolae 4
+7;761;strada elena cuza 29;281;strada franceza 9
+11;762;strada emanoil bacaloglu 2;610;strada davila carol 4
+9;763;strada emil racovita 6;755;strada episcopiei 1
+1;764;bulevardul ferdinand i 12;776;bulevardul ferdinand i 13
+2;765;bulevardul ferdinand i 12a;776;bulevardul ferdinand i 13
+1;766;bulevardul ferdinand i 135;776;bulevardul ferdinand i 13
+1;767;strada gabroveni 2;527;strada gabroveni 
+7;768;strada garii de nord 6-8;855;piata garii de nord 1
+11;769;bulevardul gheorghe magheru 43;1154;bulevardul magheru gheorghe 33
+13;770;bulevardul gheorghe magheru 32-36;1153;bulevardul magheru gheorghe 12-14
+7;771;calea giulesti 46-48;673;calea dudesti 98
+10;772;strada grigore alexandrescu 100;1651;strada romano alexandru 10
+11;773;strada grigore cobalcescu 49;882;strada grigorescu eremia 3
+10;774;strada grigore cobalcescu 9;882;strada grigorescu eremia 3
+3;775;calea grivitei 184b;884;calea grivitei 41
+1;776;calea grivitei 240;905;calea grivitei 40
+7;777;strada iacob felix 7;506;strada coltei 7
+9;778;strada iancu capitanu 19;1234;strada mantuleasa 19
+9;779;strada ieremia grigorescu 24;996;strada ionescu grigore 28
+2;780;strada ilfov 1a;981;strada ilfov 3
+1;781;splaiul independentei 58;987;splaiul independentei 5
+8;782;strada ion brezoianu 3-5;295;strada brezoianu ion 5
+9;783;strada ion brezoianu 18;294;strada brezoianu ion 1
+9;784;strada ion campineanu 1;127;strada avram iancu 1
+9;785;bulevardul ion mihalache 71;1253;bulevardul mihalache ion 10
+12;786;strada jules michelet 15-17;322;strada burghelea 15
+11;787;bulevardul lascar catargiu 14;1833;bulevardul sincai gheorghe 4
+11;788;bulevardul lascar catargiu 16;1173;bulevardul regina maria 16
+3;789;strada leonida 33;1133;strada londra 33
+3;790;strada leonida 16;11;strada londra 16
+6;791;intrarea licurici 5;224;intrarea bitolia 5
+1;792;strada lipscani 14;0;strada lipscani 16
+9;793;strada mahatma gandhi 7;1248;strada mihai voda 7
+1;794;strada mantuleasa 12;1232;strada mantuleasa 10
+1;795;strada mantuleasa 5;1240;strada mantuleasa 25
+2;796;strada mantuleasa 8;1232;strada mantuleasa 10
+4;797;bulevardul marasesti 42;1223;bulevardul marasti 61
+5;798;strada matei voievod 125-133;1216;strada matei voievod 33
+12;799;soseaua mihai bravu 75-83;1378;soseaua panduri 71-75
+9;800;strada mihai eminescu 89;1249;strada mihai voda 9
+13;801;bulevardul mihail kogalniceanu 24;1254;bulevardul mihalache ion 20
+13;802;bulevardul mihail kogalniceanu 26;1254;bulevardul mihalache ion 20
+12;803;strada mircea vulcanescu 87b;1271;strada mircea cel batran 16
+10;804;strada mitropolit nifon 1;1260;strada minovici nicolae 1
+6;805;intrarea moneasa 5;224;intrarea bitolia 5
+2;806;strada occidentului 45;1354;strada occidentului 11
+2;807;strada occidentului 32;1354;strada occidentului 11
+2;808;strada olimpului 43;1359;strada olimpului 17
+7;809;soseaua oltenitei 83;499;soseaua colentina 
+9;810;strada pamfil nastase 19;655;strada domnita anastasia 1
+8;811;soseaua pantelimon 247;683;soseaua panduri 28
+7;812;soseaua pantelimon 287;683;soseaua panduri 28
+19;813;soseaua pavel dimitrievici kiseleff 22;1037;soseaua kiseleff pavel dimitrievici 2
+2;814;calea plevnei 5-7;1456;calea plevnei 54
+5;815;strada popa nan 137a;1513;strada popa nan 47bis
+4;816;strada popa petre 14;1517;strada popa soare 4
+1;817;bulevardul regina elisabeta 55;725;bulevardul regina elisabeta 5
+1;818;bulevardul regina elisabeta 57;725;bulevardul regina elisabeta 5
+1;819;bulevardul regina elisabeta 59;725;bulevardul regina elisabeta 5
+1;820;bulevardul regina elisabeta 63;723;bulevardul regina elisabeta 3
+0;821;bulevardul regina elisabeta 4-14;724;bulevardul regina elisabeta 4-14
+1;822;strada romulus 28;1632;strada romulus 18
+2;823;bulevardul banul manta 30;147;bulevardul banul manta 9
+11;824;piata sfintii voievozi 2;1759;strada sfintii apostoli 1
+2;825;strada silvestru 73;880;strada silvestru 38
+7;826;strada spataru preda 5;693;strada patrascu voda 5
+3;827;strada sperantei 46;1802;strada sperantei 42-46
+9;828;strada spiru haret 7a;185;strada berechet 10a
+12;829;strada stefan mihaileanu 40;663;strada donici alexandru 40
+8;830;strada stelian mihale 3;1017;strada italiana 3
+1;831;strada stirbei voda 92;1841;strada stirbei voda 97
+10;832;strada thomas masaryk 9;1196;strada matei basarab 29
+4;833;strada tincani 10;0;strada lipscani 16
+4;834;strada traian 77-79;1857;strada traian 75
+9;835;strada transilvaniei 44;363;strada cameliei 14
+8;836;strada vasile lascar 33;85;strada armeneasca 35
+6;837;soseaua vergului 67;886;soseaua iancului 3
+1;838;calea victoriei 12a;1919;calea victoriei 12
+4;839;strada visinilor 3;1954;strada vistierilor 5
+1;840;strada vulturilor 38;2013;strada vulturilor 3
+4;841;strada zborului 1;148;strada banului 3
+8;842;strada aurel vlaicu 148;127;strada avram iancu 1
+3;843;soseaua colentina 23b;499;soseaua colentina 
+16;844;strada constantin daniel rosenthal 30;535;strada constaninescu mitrita 3
+2;845;strada gabroveni 16;527;strada gabroveni 
+2;846;splaiul independentei 319l;993;splaiul independentei 195
+9;847;bulevardul ion mihalache 315;1253;bulevardul mihalache ion 10
+2;848;splaiul unirii 76;1899;splaiul unirii 173
+12;849;strada valeriu braniste 54-56;1146;strada lupu dionisie 46
+9;850;strada alexandru balasanu 9;21;strada alecsandri vasile 9
+12;851;bulevardul alexandru obregia 33;1175;bulevardul regina maria 32
+9;852;strada alexandru radovici 10;22;strada alecsandri vasile 10
+4;853;strada aliorului 7;1359;strada olimpului 17
+11;854;soseaua andronache 105;562;soseaua cotroceni 32
+5;855;strada apolodor 3;1487;strada polona 2
+9;856;strada arinii dornei 4;87;strada armindenului 4
+8;857;strada aurel vlaicu 166;127;strada avram iancu 1
+6;858;strada avalansei 13;152;strada batistei 13
+7;859;strada baba novac 21;176;strada baniei 21
+4;860;strada baladei 5;160;strada bacani 3
+4;861;strada banat 2bis;98;strada atena 2bis
+2;862;bulevardul banul manta 28;147;bulevardul banul manta 9
+2;863;bulevardul banul manta 30;147;bulevardul banul manta 9
+16;864;strada barbu stefanescu delavrancea 2c;1835;strada stefanescu teodor 2
+10;865;strada barbu vacarescu 44;1723;strada scarlatescu 48
+3;866;strada calusei 48;524;strada coltei 48
+1;867;bulevardul carol i 23;381;bulevardul carol i 25
+1;868;soseaua colentina 1;499;soseaua colentina 
+2;869;soseaua colentina 81;499;soseaua colentina 
+2;870;soseaua colentina 95;499;soseaua colentina 
+0;871;strada coltei 6;505;strada coltei 6
+0;872;strada coltei 24;514;strada coltei 24
+4;873;strada corbeni 14;500;strada coltei 1
+5;874;strada cuza voda 96;1249;strada mihai voda 9
+1;875;bulevardul dacia 98;579;bulevardul dacia 58
+1;876;bulevardul dacia 125;487;bulevardul dacia 105
+12;877;strada dealul tugulea 2-12;89;strada atelierului 12
+11;878;bulevardul dimitrie cantemir 8;758;bulevardul eroii sanitari 8
+12;879;bulevardul dimitrie cantemir 25;870;bulevardul ghica tei 125
+9;880;strada dimitrie gusti 3;1417;strada patriei 3
+13;881;aleea dragos mladinovici 2-4;616;aleea dealul mitropoliei 21
+12;882;aleea dragos mladinovici 5;613;aleea dealul mitropoliei 7
+11;883;aleea dragos mladinovici 7;613;aleea dealul mitropoliei 7
+1;884;strada dumbrava rosie 19;703;strada dumbrava rosie 1
+13;885;intrarea dumitrescu procopie 6;608;intrarea dascalu nicolae 6
+7;886;strada elena cuza 1;230;strada blanari 1
+6;887;strada elena cuza 16;828;strada franceza 16
+11;888;strada emanoil ionescu 21-23;1159;strada maica domnului 21-23
+11;889;strada emanoil ionescu 35-37;1259;strada mincu ion 5-7
+1;890;strada episcopul radu 19;756;strada episcopul radu 29
+1;891;strada frumoasa 14;821;strada frumoasa 16
+2;892;strada gabroveni 14;527;strada gabroveni 
+2;893;strada gabroveni 27;527;strada gabroveni 
+2;894;strada gabroveni 29;527;strada gabroveni 
+9;895;strada george murgoci 1;796;strada florescu ion 1
+9;896;strada george murgoci 5;856;strada georgescu mihail 9
+9;897;strada george murgoci 7;856;strada georgescu mihail 9
+6;898;strada ghirlandei 5;626;strada dianei 9
+5;899;strada ghirlandei 9;626;strada dianei 9
+6;900;strada ghirlandei 9a;626;strada dianei 9
+10;901;strada grigore cobalcescu 34;882;strada grigorescu eremia 3
+10;902;strada grigore cobalcescu 46;887;strada grigorescu eremia 16
+1;903;calea grivitei 234;896;calea grivitei 23
+1;904;strada haga 10;943;strada haga 1
+12;905;strada haralambie botescu 15;1722;strada scarlatescu 20
+5;906;strada horatiu 5;504;strada coltei 5
+5;907;strada hrisovului 5;1588;strada ritmului 1
+8;908;bulevardul i c bratianu 22;289;bulevardul bratianu i c 2
+9;909;bulevardul i c bratianu 44bis;1;bulevardul bratianu i c 1
+1;910;strada icoanei 8;974;strada icoanei 58
+17;911;strada ilici piotr ceaikovski 7;493;strada clopotarii vechi 4
+2;912;splaiul independentei 56b;987;splaiul independentei 5
+12;913;strada ioan budai deleanu 7;649;strada dobrescu i demetru 1
+0;914;strada bacani 4;161;strada bacani 4
+9;915;bulevardul ion mihalache 40;1253;bulevardul mihalache ion 10
+5;916;intrarea italiana 2;224;intrarea bitolia 5
+5;917;bulevardul lacul tei 77;869;bulevardul ghica tei 77
+3;918;strada latina 11;103;strada atena 12
+8;919;strada liviu rebreanu 37;1113;strada lizeanu 37
+3;920;strada logofatul luca stroici 5;1117;strada logofatul luca stroici 33a
+9;921;strada louis pasteur 43;1082;strada lipscani 43
+9;922;strada maria rosetti 61;151;strada barierei 39
+1;923;strada masina de paine 37;1194;strada masina de paine 47
+10;924;soseaua mihai bravu 125;1252;strada mihai voda 15
+12;925;intrarea mihai eminescu 3;1342;intrarea noptii 3
+10;926;strada mihai eminescu 8a;1247;strada mihai voda 5
+9;927;strada mihai eminescu 183;1251;strada mihai voda 13
+15;928;piata mihail kogalniceanu 7;1248;strada mihai voda 7
+10;929;strada mircea vulcanescu 96;1271;strada mircea cel batran 16
+11;930;strada mircea vulcanescu 107;1271;strada mircea cel batran 16
+19;931;strada mitropolit antim ivireanu 4bis;346;strada calomfirescu radu 4bis
+12;932;strada mitropolit nifon 12a;296;strada brezoianu ion 12
+9;933;strada nicolae racota 8;612;strada davila carol 8
+13;934;soseaua nicolae titulescu 48;304;soseaua bucuresti ploiesti 40
+13;935;soseaua nicolae titulescu 80;304;soseaua bucuresti ploiesti 40
+10;936;strada nicolae velescu 3;1245;strada michelet jules 8
+10;937;strada nifon balasescu 14;1701;strada russo alecu 11
+6;938;strada nitu vasile 42;1777;strada sion vasile 2-4
+1;939;strada occidentului 21;1354;strada occidentului 11
+7;940;strada ostasilor 23a;654;strada docentilor 20
+12;941;bulevardul pache protopopescu 57;1545;bulevardul protopopescu pache 7
+9;942;aleea pantelimon 7;38;aleea alexandru 7
+1;943;calea plevnei 131a;1464;calea plevnei 131
+1;944;strada polona 40;1488;strada polona 4
+5;945;strada popa tatu 13;1514;strada popa rusu 24
+5;946;strada popa tatu 18;1514;strada popa rusu 24
+5;947;strada popa tatu 33;1514;strada popa rusu 24
+5;948;strada popa tatu 80;1514;strada popa rusu 24
+5;949;strada popa tatu 85;1514;strada popa rusu 24
+6;950;strada postavarul 22;1801;strada spatarului 22
+9;951;strada precupetii vechi 54;406;strada cavafii vechi 11
+2;952;strada principatele unite 45;1538;strada principatele unite 63
+3;953;strada principatele unite 47c;1538;strada principatele unite 63
+4;954;strada principatele unite 56-58;1538;strada principatele unite 63
+1;955;strada principatele unite 61;1538;strada principatele unite 63
+2;956;calea rahovei 46;1575;calea rahovei 163
+2;957;calea rahovei 50;1582;calea rahovei 200
+5;958;calea rahovei 332-336;1583;calea rahovei 216
+4;959;strada rasnov 3;981;strada ilfov 3
+8;960;aleea raul sadului 6;37;aleea alexandru 6
+2;961;bulevardul regina maria 21;937;bulevardul regina maria 54
+3;962;bulevardul regina maria 75-79;1182;bulevardul regina maria 68-70
+4;963;strada resita 1;1559;strada rabat 1
+4;964;strada ripiceni 6;0;strada lipscani 16
+4;965;strada ripiceni 6;0;strada lipscani 16
+4;966;strada ripiceni 6;0;strada lipscani 16
+1;967;strada roma 21;1636;strada roma 20
+1;968;bulevardul schitu magureanu 49;1726;bulevardul schitu magureanu 19
+7;969;aleea secuilor 2;1288;calea mosilor 21
+7;970;strada sfantul spiridon 4;1758;strada sfantul stefan 
+8;971;aleea sinaia 18;490;aleea circului 15
+1;972;strada spatarului 9;1799;strada spatarului 3
+5;973;strada spineni 10;486;strada chile 10
+1;974;strada stirbei voda 96;1841;strada stirbei voda 97
+5;975;strada straduintei 2;565;strada credintei 2a
+5;976;strada tache gheorghe 13;1169;strada manu gheorghe 12
+10;977;intrarea teiul doamnei 1;542;strada doamnei 1
+7;978;strada teiul doamnei 108;644;strada doamnei 18
+6;979;strada termopile 2;718;strada eforiei 2
+10;980;strada thomas masaryk 6;1200;strada matei basarab 46
+8;981;bulevardul timisoara 19;577;bulevardul dacia 12
+3;982;strada tohani 1;1845;strada tirana 1
+9;983;strada turnu magurele 11;1967;strada vlaicu aurel 16
+9;984;strada turnu magurele 15;322;strada burghelea 15
+10;985;strada turnu magurele 23;318;strada burghelea 3
+8;986;strada vasile lascar 11;84;strada armeneasca 10
+8;987;strada vasile lascar 20;84;strada armeneasca 10
+8;988;strada vasile lascar 55;85;strada armeneasca 35
+5;989;strada veteranilor 5;1954;strada vistierilor 5
+1;990;strada visarion 15;1953;strada visarion 14
+7;991;strada zablovschi 21;154;strada batistei 21
+6;992;strada zefirului 3a;89;strada atelierului 12
+1;993;strada 11 iunie 1;5;strada 11 iunie 2
+2;994;strada 11 iunie 1a;5;strada 11 iunie 2
+1;995;strada 11 iunie 7;5;strada 11 iunie 2
+1;996;strada 11 iunie 9;5;strada 11 iunie 2
+1;997;strada 11 iunie 12;5;strada 11 iunie 2
+2;998;strada 11 iunie 17;5;strada 11 iunie 2
+1;999;strada 11 iunie 27;5;strada 11 iunie 2
+2;1000;strada 11 iunie 34;5;strada 11 iunie 2
+2;1001;strada 11 iunie 35;5;strada 11 iunie 2
+5;1002;strada 11 iunie 36-38;5;strada 11 iunie 2
+2;1003;strada 11 iunie 39;5;strada 11 iunie 2
+2;1004;strada 11 iunie 40;5;strada 11 iunie 2
+2;1005;strada 11 iunie 43;5;strada 11 iunie 2
+5;1006;strada 11 iunie 44-46;5;strada 11 iunie 2
+2;1007;strada 11 iunie 49;5;strada 11 iunie 2
+2;1008;strada 11 iunie 45;5;strada 11 iunie 2
+2;1009;strada 11 iunie 53;5;strada 11 iunie 2
+2;1010;strada 11 iunie 55;5;strada 11 iunie 2
+2;1011;strada 11 iunie 57;5;strada 11 iunie 2
+2;1012;strada 11 iunie 59;5;strada 11 iunie 2
+2;1013;strada 11 iunie 61;5;strada 11 iunie 2
+2;1014;strada 11 iunie 65;5;strada 11 iunie 2
+2;1015;strada 11 iunie 70;5;strada 11 iunie 2
+2;1016;strada 11 iunie 71;5;strada 11 iunie 2
+2;1017;strada 11 iunie 73;5;strada 11 iunie 2
+2;1018;strada 11 iunie 75;5;strada 11 iunie 2
+3;1019;strada 11 iunie 75a;5;strada 11 iunie 2
+2;1020;strada 11 iunie 81;5;strada 11 iunie 2
+1;1021;strada academiei 2;7;strada academiei 22
+1;1022;strada academiei 25;7;strada academiei 22
+1;1023;strada academiei 27;7;strada academiei 22
+6;1024;strada ady endre 13;1126;strada londra 13
+7;1025;strada agricultori 52;526;strada coltei 52
+7;1026;strada agricultori 86;1335;strada negustori 16
+7;1027;strada agricultori 93;1326;strada negustori 3
+8;1028;strada alecu russo 6;91;strada atelierului 16
+7;1029;strada alecu russo 21;95;strada atelierului 21
+9;1030;strada alecu russo 24-26;108;strada atena 24-26
+9;1031;soseaua alexandriei 76;37;aleea alexandru 6
+1;1032;aleea alexandru 46;35;aleea alexandru 4
+10;1033;strada alexandru balasanu 2;17;strada alecsandri vasile 5
+9;1034;strada alexandru balasanu 5;17;strada alecsandri vasile 5
+12;1035;strada alexandru constantinescu 21;1033;strada kiritescu constantin 21
+12;1036;strada alexandru deparateanu 5;17;strada alecsandri vasile 5
+9;1037;strada alexandru donici 2;17;strada alecsandri vasile 5
+8;1038;strada alexandru donici 9;21;strada alecsandri vasile 9
+8;1039;strada alexandru donici 10;22;strada alecsandri vasile 10
+8;1040;strada alexandru donici 20;26;strada alecsandri vasile 20
+14;1041;bulevardul alexandru ioan cuza 19;1;bulevardul bratianu i c 1
+13;1042;bulevardul alexandru ioan cuza 49;293;bulevardul bratianu i c 49
+15;1043;bulevardul alexandru ioan cuza 57;1;bulevardul bratianu i c 1
+14;1044;bulevardul alexandru ioan cuza 59;147;bulevardul banul manta 9
+14;1045;bulevardul alexandru ioan cuza 89;147;bulevardul banul manta 9
+14;1046;bulevardul alexandru ioan cuza 99;147;bulevardul banul manta 9
+14;1047;bulevardul alexandru ioan cuza 105;290;bulevardul bratianu i c 10
+10;1048;strada alexandru ipsilanti 2;17;strada alecsandri vasile 5
+13;1049;piata alexandru lahovari 1;50;aleea alexandru 41
+12;1050;strada alexandru macedonski 10;22;strada alecsandri vasile 10
+12;1051;bulevardul alexandru obregia 2;1175;bulevardul regina maria 32
+12;1052;bulevardul alexandru obregia 4;937;bulevardul regina maria 54
+13;1053;bulevardul alexandru obregia 5-7;937;bulevardul regina maria 54
+13;1054;bulevardul alexandru obregia 27;68;bulevardul aviatorilor 7
+10;1055;strada alexandru paulescu 5a;17;strada alecsandri vasile 5
+12;1056;strada alexandru philippide 1;17;strada alecsandri vasile 5
+9;1057;strada alexandru romano 18;25;strada alecsandri vasile 18
+10;1058;strada alexandru sihleanu 4;17;strada alecsandri vasile 5
+10;1059;strada alexandru xenopol 5;17;strada alecsandri vasile 5
+7;1060;strada anton pann 2;81;strada ankara 2
+3;1061;strada arcului 3;148;strada banului 3
+4;1062;strada arcului 14;1392;strada parfumului 14
+5;1063;strada arcului 16;148;strada banului 3
+5;1064;strada ardeleni 12;103;strada atena 12
+5;1065;strada ardeleni 32;151;strada barierei 39
+6;1066;strada argentina 25;85;strada armeneasca 35
+9;1067;strada arinii dornei 10;970;strada icoanei 12
+9;1068;strada aristide pascal 24;566;strada cristian radu 2
+1;1069;strada armeneasca 14;84;strada armeneasca 10
+1;1070;strada armeneasca 15;84;strada armeneasca 10
+1;1071;strada armeneasca 16;84;strada armeneasca 10
+1;1072;strada armeneasca 17;84;strada armeneasca 10
+5;1073;strada armoniei 9;171;strada baniei 3
+4;1074;strada armoniei 3;171;strada baniei 3
+8;1075;strada aron florian 6;1067;strada leon voda 3
+8;1076;strada aurel vlaicu 34;127;strada avram iancu 1
+8;1077;strada aurel vlaicu 38;127;strada avram iancu 1
+8;1078;strada aurel vlaicu 48;127;strada avram iancu 1
+8;1079;strada aurel vlaicu 102;127;strada avram iancu 1
+8;1080;strada aurel vlaicu 146;127;strada avram iancu 1
+8;1081;strada aurel vlaicu 154;127;strada avram iancu 1
+5;1082;strada austrului 12c;819;strada foisorului 121
+5;1083;strada austrului 26;1801;strada spatarului 22
+5;1084;strada avalansei 5;637;strada doamnei 5
+10;1085;strada avalansei 7-7bis;2;strada icoanei 3-5
+5;1086;strada avalansei 18;644;strada doamnei 18
+1;1087;bulevardul aviatorilor 18;110;bulevardul aviatorilor 1
+1;1088;strada avram iancu 14;127;strada avram iancu 1
+6;1089;aleea avrig 10;12;strada avrig 18
+6;1090;aleea avrig 14;12;strada avrig 18
+4;1091;strada avrig 21-31;12;strada avrig 18
+5;1092;aleea avrig 6;130;strada avrig 6
+8;1093;strada badea cartan 11;1386;strada pann anton 12
+8;1094;strada badea cartan 11;1386;strada pann anton 12
+8;1095;strada badea cartan 60;1387;strada pann anton 20
+6;1096;strada baiculesti 19;175;strada baniei 19
+1;1097;strada baldovin parcalabul 4;145;strada baldovin parcalabul 1
+1;1098;strada baldovin parcalabul 7;145;strada baldovin parcalabul 1
+1;1099;strada baniei 13;171;strada baniei 3
+2;1100;bulevardul banul manta 24;147;bulevardul banul manta 9
+12;1101;aleea barajul dunarii 3;35;aleea alexandru 4
+11;1102;strada barbu iscovescu 34;151;strada barierei 39
+11;1103;strada barbu iscovescu 40;850;strada frumoasa 40
+10;1104;strada barbu mumuleanu 46;1388;strada parfumului 6
+7;1105;bulevardul basarabia 5;578;bulevardul dacia 56
+7;1106;bulevardul basarabia 8;378;bulevardul carol i 8
+7;1107;bulevardul basarabia 42;577;bulevardul dacia 12
+7;1108;bulevardul basarabia 52;577;bulevardul dacia 12
+6;1109;bulevardul basarabia 62;582;bulevardul dacia 62
+7;1110;bulevardul basarabia 62a;582;bulevardul dacia 62
+7;1111;bulevardul basarabia 68;579;bulevardul dacia 58
+7;1112;bulevardul basarabia 78;579;bulevardul dacia 58
+2;1113;strada batiste 9;158;strada batistei 39
+2;1114;strada batiste 11;152;strada batistei 13
+3;1115;strada batiste 16a;152;strada batistei 13
+2;1116;strada batiste 26;154;strada batistei 21
+2;1117;strada batiste 28a;156;strada batistei 24a
+11;1118;strada benjamin franklin 5;170;strada baneasa ancuta 5
+12;1119;strada benjamin franklin 14;237;strada blanari 14
+1;1120;strada berzei 2;201;strada berzei 42
+1;1121;strada berzei 5;204;strada berzei 58
+2;1122;strada berzei 12b;201;strada berzei 42
+2;1123;strada berzei 12c;201;strada berzei 42
+3;1124;strada berzei 42-46;201;strada berzei 42
+4;1125;strada berzei 50bis;204;strada berzei 58
+1;1126;strada berzei 59;204;strada berzei 58
+1;1127;strada berzei 64;202;strada berzei 44
+1;1128;strada berzei 72;201;strada berzei 42
+2;1129;strada berzei 77;201;strada berzei 42
+1;1130;strada berzei 83;205;strada berzei 81
+6;1131;strada bibescu voda 19;1315;strada patrascu voda 12
+1;1132;strada biserica marcuta 1;219;strada biserica marcuta 8
+1;1133;strada biserica marcuta 3;219;strada biserica marcuta 8
+1;1134;strada biserica marcuta 5;219;strada biserica marcuta 8
+5;1135;strada bitolia 6;101;strada atena 6
+5;1136;strada bitolia 51;224;intrarea bitolia 5
+1;1137;strada blanari 12;159;strada blanari 2
+1;1138;strada bucur 2;298;strada bucur 5
+1;1139;strada bucur 6;298;strada bucur 5
+2;1140;strada bucur 13;298;strada bucur 5
+2;1141;strada bucur 17;298;strada bucur 5
+2;1142;strada buzesti 15c;332;strada buzesti 55
+1;1143;strada buzesti 24;327;strada buzesti 2-4
+7;1144;strada c a rosetti 10;336;strada caimatei 10
+8;1145;strada c a rosetti 19;151;strada barierei 39
+7;1146;strada c a rosetti 24;514;strada coltei 24
+7;1147;strada c a rosetti 38;368;strada cameliei 38
+7;1148;strada c a rosetti 40;477;strada cauzasi 40
+10;1149;strada caderea bastiliei 1;360;strada cameliei 1
+11;1150;strada caderea bastiliei 45;1430;strada parvan vasile 12
+11;1151;strada caderea bastiliei 55;1430;strada parvan vasile 12
+11;1152;strada caderea bastiliei 59;1209;strada matei basarab 59
+1;1153;strada caimatei 6;302;strada caimatei 3
+1;1154;calea calarasilor 33;408;calea calarasilor 34
+1;1155;calea calarasilor 35;408;calea calarasilor 34
+1;1156;calea calarasilor 53;197;calea calarasilor 57
+1;1157;calea calarasilor 53;197;calea calarasilor 57
+1;1158;calea calarasilor 75;424;calea calarasilor 72
+1;1159;calea calarasilor 80;428;calea calarasilor 82
+1;1160;calea calarasilor 90;435;calea calarasilor 91
+2;1161;calea calarasilor 319;310;calea calarasilor 61
+7;1162;intrarea caltuna 15;224;intrarea bitolia 5
+7;1163;intrarea caltuna 17;1340;intrarea noptii 1
+4;1164;strada calusei 4a;503;strada coltei 4
+5;1165;strada calusei 19a;175;strada baniei 19
+5;1166;strada calusei 32a;501;strada coltei 2
+5;1167;strada calusei 64a;156;strada batistei 24a
+1;1168;strada cameliei 8;360;strada cameliei 1
+7;1169;strada camil ressu 19;360;strada cameliei 1
+7;1170;strada camil ressu 23;1722;strada scarlatescu 20
+4;1171;strada caminului 1;148;strada banului 3
+4;1172;strada caminului 2;148;strada banului 3
+8;1173;strada caminului 14-20;88;strada armindenului 12
+6;1174;strada caminului 16a;148;strada banului 3
+9;1175;strada carol davila 109;84;strada armeneasca 10
+0;1176;bulevardul carol i 6;377;bulevardul carol i 6
+0;1177;bulevardul carol i 8;378;bulevardul carol i 8
+0;1178;bulevardul carol i 25;381;bulevardul carol i 25
+1;1179;bulevardul carol i 35;381;bulevardul carol i 25
+0;1180;bulevardul carol i 37;384;bulevardul carol i 37
+1;1181;bulevardul carol i 50;388;bulevardul carol i 53
+1;1182;bulevardul carol i 57;382;bulevardul carol i 27
+1;1183;bulevardul carol i 58;378;bulevardul carol i 8
+0;1184;bulevardul carol i 59;390;bulevardul carol i 59
+0;1185;bulevardul carol i 66;392;bulevardul carol i 66
+4;1186;bulevardul carol i 68-70;377;bulevardul carol i 6
+1;1187;bulevardul carol i 54;376;bulevardul carol i 4
+9;1188;strada carol knappe 78;1490;strada polona 8
+4;1189;strada casin 10;486;strada chile 10
+1;1190;strada cavafii vechi 1;406;strada cavafii vechi 11
+1;1191;strada cavafii vechi 3;407;strada cavafii vechi 13
+2;1192;strada cavafii vechi 5;406;strada cavafii vechi 11
+1;1193;strada cavafii vechi 17;406;strada cavafii vechi 11
+4;1194;strada cercului 1;1588;strada ritmului 1
+9;1195;strada cezar bolliac 25;10;strada albac 25
+4;1196;strada chindiei 4;484;strada chile 4
+11;1197;strada ciprian porumbescu 3;567;strada cristian radu 3
+12;1198;strada ciprian porumbescu 6;566;strada cristian radu 2
+11;1199;strada ciprian porumbescu 7;569;strada cristian radu 7
+13;1200;strada ciprian porumbescu 11;566;strada cristian radu 2
+6;1201;strada ciresoaia 150;982;strada mioara 15
+5;1202;strada ciresului 35;1353;strada parfumului 35
+8;1203;intrarea clucereasa maria 6;57;intrarea alexe marin 6
+11;1204;strada cluceru udricani 12;800;strada florescu ion 12
+1;1205;soseaua colentina 8;499;soseaua colentina 
+2;1206;soseaua colentina 37;499;soseaua colentina 
+2;1207;soseaua colentina 51;499;soseaua colentina 
+2;1208;strada coltei 15a;500;strada coltei 1
+1;1209;strada coltei 23;501;strada coltei 2
+1;1210;strada coltei 34;502;strada coltei 3
+1;1211;strada coltei 36;502;strada coltei 3
+6;1212;aleea compozitorilor 5;483;aleea campul mosilor 5
+8;1213;aleea compozitorilor 11;483;aleea campul mosilor 5
+8;1214;aleea compozitorilor 30;483;aleea campul mosilor 5
+6;1215;strada concordiei 5;504;strada coltei 5
+6;1216;strada concordiei 11;172;strada baniei 11
+12;1217;strada constantin balescu 31;528;strada constaninescu alexandru 34
+11;1218;strada constantin bonea 16;480;strada campineanu ion 16
+12;1219;strada constantin bosianu 10;1695;strada rosetti maria 15
+11;1220;strada constantin brancusi 3;567;strada cristian radu 3
+11;1221;strada constantin brancusi 5;568;strada cristian radu 5
+11;1222;strada constantin brancusi 7;569;strada cristian radu 7
+11;1223;strada constantin coanda 27;566;strada cristian radu 2
+11;1224;strada constantin cristescu 2;547;strada costache aristia 29
+11;1225;strada constantin cristescu 3;535;strada constaninescu mitrita 3
+16;1226;strada constantin daniel rosenthal 17;534;strada constaninescu mitrita 1
+16;1227;strada constantin daniel rosenthal 38;530;strada constaninescu alexandru 38
+13;1228;strada constantin f robescu 2;534;strada constaninescu mitrita 1
+13;1229;strada constantin f robescu 6;534;strada constaninescu mitrita 1
+14;1230;strada constantin miculescu 20-22;531;strada constaninescu alexandru 42
+12;1231;strada constantin miculescu 32;528;strada constaninescu alexandru 34
+8;1232;strada constantin nacu 5;568;strada cristian radu 5
+12;1233;strada constantin sandu aldea 40;531;strada constaninescu alexandru 42
+10;1234;strada constantin stahi 3;493;strada clopotarii vechi 4
+11;1235;strada constantin stere 25;154;strada batistei 21
+8;1236;bulevardul constructorilor 3;111;bulevardul aviatorilor 3
+8;1237;bulevardul constructorilor 11;115;bulevardul aviatorilor 11
+9;1238;bulevardul constructorilor 15;110;bulevardul aviatorilor 1
+4;1239;strada corbeni 35;502;strada coltei 3
+4;1240;strada cornelia 3;502;strada coltei 3
+4;1241;strada cornelia 5;504;strada coltei 5
+4;1242;strada cornelia 12;970;strada icoanei 12
+5;1243;strada cornelia 17;324;strada burghelea 17
+5;1244;strada cornelia 19;325;strada burghelea 19
+5;1245;strada cornelia 28;278;strada brailita 28
+4;1246;strada cornelia 38;519;strada coltei 38
+11;1247;bulevardul corneliu coposu 1;875;bulevardul golescu dinicu 16
+11;1248;intrarea costache negri 4;1971;intrarea voicu ion 4
+8;1249;strada costache negri 13;495;strada coanda henri 11
+7;1250;strada costache negri 28;547;strada costache aristia 29
+2;1251;soseaua cotroceni 9;562;soseaua cotroceni 32
+2;1252;soseaua cotroceni 18;562;soseaua cotroceni 32
+1;1253;strada covaci 2;563;strada covaci 
+1;1254;strada covaci 3;563;strada covaci 
+1;1255;strada covaci 4;563;strada covaci 
+1;1256;strada covaci 5;563;strada covaci 
+1;1257;strada covaci 8;563;strada covaci 
+1;1258;strada covaci 13;564;strada covaci 16
+2;1259;strada covaci 21;563;strada covaci 
+2;1260;strada covaci 23;563;strada covaci 
+4;1261;strada covasna 15;564;strada covaci 16
+5;1262;strada covasna 27;240;strada bocsa 2
+4;1263;strada cozla 2a;240;strada bocsa 2
+4;1264;strada craciun 8;1858;strada traian 85
+9;1265;strada crinul de padure 2;566;strada cristian radu 2
+6;1266;strada crinului 5-15;1588;strada ritmului 1
+4;1267;strada crisana 3;1845;strada tirana 1
+5;1268;strada crisana 35;982;strada mioara 15
+7;1269;strada crizantemelor 2;1446;strada plantelor 4
+6;1270;strada crizantemelor 4;1446;strada plantelor 4
+7;1271;strada crizantemelor 6;1446;strada plantelor 4
+7;1272;strada crizantemelor 8;1446;strada plantelor 4
+8;1273;strada crizantemelor 16;1446;strada plantelor 4
+7;1274;strada crizantemelor 20;1448;strada plantelor 40
+9;1275;strada culmea veche 5;302;strada caimatei 3
+1;1276;strada cutitul de argint 18;571;strada cutitul de argint 1
+1;1277;strada cutitul de argint 19;571;strada cutitul de argint 1
+2;1278;strada cutitul de argint 28;571;strada cutitul de argint 1
+6;1279;strada cutitul de argint 62-62a;571;strada cutitul de argint 1
+2;1280;strada cutitul de argint 64;571;strada cutitul de argint 1
+2;1281;strada cutitul de argint 68;571;strada cutitul de argint 1
+3;1282;strada cutitul de argint 72a;571;strada cutitul de argint 1
+2;1283;strada cutitul de argint 74;571;strada cutitul de argint 1
+5;1284;strada cuza voda 53;1067;strada leon voda 3
+5;1285;strada cuza voda 78;1248;strada mihai voda 7
+5;1286;strada cuza voda 89;1249;strada mihai voda 9
+5;1287;strada cuza voda 86;1572;strada radu voda 26
+5;1288;strada cuza voda 93;1067;strada leon voda 3
+5;1289;strada cuza voda 98;1249;strada mihai voda 9
+1;1290;bulevardul dacia 32;577;bulevardul dacia 12
+1;1291;bulevardul dacia 37;584;bulevardul dacia 67
+1;1292;bulevardul dacia 45;588;bulevardul dacia 75
+1;1293;bulevardul dacia 64;580;bulevardul dacia 60
+1;1294;bulevardul dacia 80;580;bulevardul dacia 60
+0;1295;bulevardul dacia 101;354;bulevardul dacia 101
+0;1296;bulevardul dacia 103;464;bulevardul dacia 103
+0;1297;bulevardul dacia 103;464;bulevardul dacia 103
+1;1298;bulevardul dacia 104;354;bulevardul dacia 101
+1;1299;bulevardul dacia 114;602;bulevardul dacia 117
+1;1300;bulevardul dacia 116;602;bulevardul dacia 117
+1;1301;bulevardul dacia 131;354;bulevardul dacia 101
+2;1302;bulevardul dacia 149;354;bulevardul dacia 101
+1;1303;bulevardul dacia 153;464;bulevardul dacia 103
+2;1304;bulevardul dacia 159;354;bulevardul dacia 101
+1;1305;bulevardul dacia 160;580;bulevardul dacia 60
+2;1306;bulevardul dacia 168;354;bulevardul dacia 101
+1;1307;bulevardul dacia 172;577;bulevardul dacia 12
+13;1308;strada david praporgescu 29;127;strada avram iancu 1
+1;1309;aleea dealul mitropoliei 5;613;aleea dealul mitropoliei 7
+1;1310;aleea dealul mitropoliei 11;614;aleea dealul mitropoliei 15
+1;1311;aleea dealul mitropoliei 17;613;aleea dealul mitropoliei 7
+1;1312;aleea dealul mitropoliei 19;614;aleea dealul mitropoliei 15
+5;1313;strada dej 78;86;strada avrig 78
+5;1314;strada despot voda 38;1067;strada leon voda 3
+2;1315;strada dianei 13;626;strada dianei 9
+5;1316;strada diditel 14;153;strada batistei 14
+5;1317;strada diditel 13;152;strada batistei 13
+14;1318;strada dimitrie bolintineanu 2;621;strada demarat zossima 2
+14;1319;strada dimitrie bolintineanu 3;1256;strada miile constantin 1
+12;1320;bulevardul dimitrie cantemir 3;758;bulevardul eroii sanitari 8
+12;1321;bulevardul dimitrie cantemir 4;758;bulevardul eroii sanitari 8
+12;1322;bulevardul dimitrie cantemir 5;758;bulevardul eroii sanitari 8
+12;1323;bulevardul dimitrie cantemir 9;758;bulevardul eroii sanitari 8
+12;1324;strada dimitrie giurescu 4;137;strada baia de fier 4
+12;1325;strada dimitrie giurescu 7;709;strada dumbrava rosie 7
+12;1326;strada dimitrie giurescu 9;711;strada dumbrava rosie 9
+12;1327;strada dimitrie giurescu 10;141;strada baia de fier 10
+10;1328;strada dimitrie gusti 19;88;strada armindenului 12
+10;1329;strada dimitrie onciul 12;88;strada armindenului 12
+11;1330;strada dimitrie onciul 16;88;strada armindenului 12
+11;1331;strada dimitrie onciul 31;1213;strada matei voievod 31
+11;1332;strada dimitrie orbescu 8;710;strada dumbrava rosie 8
+11;1333;strada dimitrie orbescu 11;670;strada drobeta 11
+12;1334;strada dimitrie racovita 25;621;strada demarat zossima 2
+13;1335;strada dimitrie racovita 30a;705;strada dumbrava rosie 3
+12;1336;strada dimitrie racovita 41;703;strada dumbrava rosie 1
+10;1337;strada dimitrie salmen 20;216;strada biserica amzei 20
+11;1338;strada dimitrie salmen 30;210;strada biserica amzei 10
+10;1339;bulevardul dinicu golescu 1a;1166;bulevardul maniu iuliu 9
+8;1340;bulevardul dinicu golescu 9;1166;bulevardul maniu iuliu 9
+10;1341;strada dionisie lupu 31;816;strada foisorului 118
+2;1342;strada doamna ghica 125;631;strada doamna ghica 3-5
+1;1343;strada doamnei 7;542;strada doamnei 1
+1;1344;strada doamnei 11;542;strada doamnei 1
+3;1345;strada doamnei 27-29;635;strada doamnei 2-6
+4;1346;strada dobrogei 12;640;strada doamnei 12
+3;1347;strada doina 11;1796;strada sofia 11
+3;1348;strada doina 13;1494;strada polona 13
+3;1349;strada doina 15;1495;strada polona 15
+1;1350;strada domnita anastasia 10;655;strada domnita anastasia 1
+1;1351;strada domnita anastasia 17;655;strada domnita anastasia 1
+5;1352;strada domnita ancuta 9;658;strada domnita anastasia 9
+2;1353;calea dorobantilor 51;664;calea dorobantilor 16
+1;1354;calea dorobantilor 69;666;calea dorobantilor 39
+1;1355;calea dorobantilor 70;668;calea dorobantilor 60
+1;1356;calea dorobantilor 75;669;calea dorobantilor 72
+2;1357;calea dorobantilor 134;664;calea dorobantilor 16
+5;1358;strada dragos voda 3;1067;strada leon voda 3
+6;1359;intrarea dragusa 5;224;intrarea bitolia 5
+7;1360;intrarea dragusa 6;224;intrarea bitolia 5
+7;1361;intrarea dragusa 15;224;intrarea bitolia 5
+5;1362;strada dristorului 73;1951;strada viitorului 94
+4;1363;strada dristorului 104;814;strada foisorului 106
+9;1364;strada drumea radulescu 12;1701;strada russo alecu 11
+2;1365;calea dudesti 37;642;calea dudesti 127
+2;1366;calea dudesti 51;673;calea dudesti 98
+0;1367;strada dumbrava rosie 12;714;strada dumbrava rosie 12
+1;1368;strada dumbrava rosie 20;704;strada dumbrava rosie 2
+1;1369;strada dumbrava rosie 28;704;strada dumbrava rosie 2
+11;1370;intrarea dumitru lemnea 1;224;intrarea bitolia 5
+11;1371;intrarea dumitru lemnea 2;224;intrarea bitolia 5
+11;1372;intrarea dumitru lemnea 6;224;intrarea bitolia 5
+11;1373;intrarea dumitru lemnea 7;224;intrarea bitolia 5
+11;1374;intrarea dumitru lemnea 8;224;intrarea bitolia 5
+12;1375;intrarea dumitru lemnea 18;224;intrarea bitolia 5
+12;1376;strada dumitru papazoglu 106;712;strada dumbrava rosie 10
+10;1377;strada dunarea albastra 2;621;strada demarat zossima 2
+5;1378;strada duzilor 2;781;strada fetitelor 2
+5;1379;strada duzilor 8;485;strada chile 8
+6;1380;strada duzilor 33;328;strada buzesti 32
+12;1381;strada ecaterina teodoroiu 7;59;strada aman theodor 1
+11;1382;strada ecaterina teodoroiu 16;67;strada aman theodor 16
+7;1383;strada eclesiarhului 8;92;strada atelierului 18
+7;1384;strada elena cuza 5;281;strada franceza 9
+7;1385;strada elena cuza 15;824;strada franceza 11
+7;1386;strada elena cuza 25;10;strada albac 25
+7;1387;strada elena cuza 27;829;strada franceza 17
+7;1388;strada elena cuza 35;85;strada armeneasca 35
+6;1389;strada elena cuza 40;840;strada franceza 40
+6;1390;strada elena cuza 42;841;strada franceza 42
+7;1391;strada elena cuza 45;840;strada franceza 40
+7;1392;strada elena cuza 47;829;strada franceza 17
+7;1393;strada elena cuza 53;826;strada franceza 13
+12;1394;strada emanoil porumbaru 7;965;strada lacul gorgova 2
+8;1395;strada emanuel david 2;1221;strada mamulari 3
+8;1396;strada emanuel david 5;1221;strada mamulari 3
+8;1397;strada emanuel david 9;1221;strada mamulari 3
+2;1398;strada episcopul radu 6;756;strada episcopul radu 29
+2;1399;strada episcopul radu 15;756;strada episcopul radu 29
+2;1400;strada episcopul radu 40;756;strada episcopul radu 29
+10;1401;strada eufrosin poteca 16;828;strada franceza 16
+11;1402;strada eufrosin poteca 22;326;strada burghelea 22
+10;1403;strada eufrosin poteca 36;839;strada franceza 36
+11;1404;strada eugeniu carada 5-7;207;strada biserica amzei 5-7
+10;1405;strada eugeniu carada 7;569;strada cristian radu 7
+4;1406;strada fainari 10;230;strada blanari 1
+4;1407;strada fainari 45;232;strada blanari 4
+5;1408;strada fantanica 16;104;strada atena 16
+10;1409;strada felicia racovita 7;773;strada felix lacob 51
+1;1410;bulevardul ferdinand i 8;775;bulevardul ferdinand i 3
+1;1411;bulevardul ferdinand i 17;776;bulevardul ferdinand i 13
+2;1412;bulevardul ferdinand i 29;775;bulevardul ferdinand i 3
+1;1413;bulevardul ferdinand i 30;775;bulevardul ferdinand i 3
+1;1414;bulevardul ferdinand i 41;778;bulevardul ferdinand i 31
+2;1415;bulevardul ferdinand i 44;775;bulevardul ferdinand i 3
+5;1416;bulevardul ferdinand i 47bis;775;bulevardul ferdinand i 3
+2;1417;bulevardul ferdinand i 49;775;bulevardul ferdinand i 3
+1;1418;bulevardul ferdinand i 51;778;bulevardul ferdinand i 31
+2;1419;bulevardul ferdinand i 59;775;bulevardul ferdinand i 3
+2;1420;bulevardul ferdinand i 60;775;bulevardul ferdinand i 3
+2;1421;bulevardul ferdinand i 76;775;bulevardul ferdinand i 3
+2;1422;bulevardul ferdinand i 141;776;bulevardul ferdinand i 13
+7;1423;calea ferentari 72;1458;calea plevnei 72
+7;1424;calea ferentari 72;1458;calea plevnei 72
+7;1425;calea ferentari 72;1458;calea plevnei 72
+7;1426;calea ferentari 72;1458;calea plevnei 72
+7;1427;calea ferentari 72;1458;calea plevnei 72
+7;1428;calea ferentari 72;1458;calea plevnei 72
+7;1429;calea ferentari 72;1458;calea plevnei 72
+7;1430;calea ferentari 72;1458;calea plevnei 72
+7;1431;calea ferentari 72;1458;calea plevnei 72
+7;1432;calea ferentari 72;1458;calea plevnei 72
+7;1433;calea ferentari 72;1458;calea plevnei 72
+7;1434;calea ferentari 72;1458;calea plevnei 72
+7;1435;strada feroviarilor 1-5;877;strada gradinarilor 12
+8;1436;strada feroviarilor 6-8;877;strada gradinarilor 12
+9;1437;strada feroviarilor 11-13;877;strada gradinarilor 12
+9;1438;strada feroviarilor 22-24;877;strada gradinarilor 12
+9;1439;strada feroviarilor 26-28;877;strada gradinarilor 12
+8;1440;strada feroviarilor 35b;877;strada gradinarilor 12
+7;1441;strada feroviarilor 37;783;strada fetitelor 7
+9;1442;strada feroviarilor 47-49;881;strada gradinarilor 40
+7;1443;strada feroviarilor 51;877;strada gradinarilor 12
+9;1444;strada feroviarilor 62-64;877;strada gradinarilor 12
+10;1445;strada feroviarilor 78-84a;879;strada gradinarilor 20a
+7;1446;strada floare rosie 7;709;strada dumbrava rosie 7
+8;1447;strada florea lazar 3;281;strada franceza 9
+2;1448;calea floreasca 11;788;calea floreasca 23
+1;1449;calea floreasca 19;790;calea floreasca 159
+7;1450;strada foisorul de foc 1;819;strada foisorului 121
+1;1451;strada franceza 7;281;strada franceza 9
+1;1452;strada franceza 19;281;strada franceza 9
+1;1453;strada franceza 46;828;strada franceza 16
+1;1454;strada franceza 56;828;strada franceza 16
+1;1455;strada franceza 58;823;strada franceza 8
+1;1456;strada franceza 64;827;strada franceza 14
+1;1457;strada franceza 66;828;strada franceza 16
+1;1458;strada frumoasa 12;821;strada frumoasa 16
+1;1459;strada frumoasa 20;846;strada frumoasa 24
+1;1460;strada frumoasa 29;845;strada frumoasa 19
+1;1461;strada frumoasa 35;848;strada frumoasa 33
+5;1462;soseaua fundeni 2;683;soseaua panduri 28
+2;1463;strada gabroveni 10;527;strada gabroveni 
+2;1464;strada gabroveni 18;527;strada gabroveni 
+2;1465;strada gabroveni 20;527;strada gabroveni 
+2;1466;strada gabroveni 57;527;strada gabroveni 
+2;1467;strada gabroveni 61;527;strada gabroveni 
+2;1468;strada gala galaction 24;852;strada gala galaction 51
+1;1469;strada gala galaction 54;852;strada gala galaction 51
+7;1470;strada garibaldi 26a;156;strada batistei 24a
+10;1471;strada drumul gazarului 25;1772;strada silozului 25
+3;1472;strada gazelei 30;365;strada cameliei 30
+4;1473;strada gazelei 32;328;strada buzesti 32
+4;1474;strada gazelei 35;365;strada cameliei 30
+5;1475;strada gazelei 47;174;strada baniei 17
+8;1476;strada george murgoci 9;856;strada georgescu mihail 9
+7;1477;strada georges bizet 9;856;strada georgescu mihail 9
+13;1478;strada gheorghe cantacuzino 3;856;strada georgescu mihail 9
+11;1479;bulevardul gheorghe i duca 2;289;bulevardul bratianu i c 2
+12;1480;strada gheorghe lazar 9a-9b;325;strada burghelea 19
+11;1481;bulevardul gheorghe magheru 9;801;bulevardul magheru gheorghe 8
+8;1482;strada gheorghe manea 13;320;strada burghelea 13
+9;1483;strada gheorghe manu 6;317;strada burghelea 1
+10;1484;intrarea gheorghe manu 1;55;intrarea alexe marin 2
+13;1485;bulevardul gheorghe marinescu 15;258;bulevardul botev hristo 15
+13;1486;strada gheorghe negel 39-43;8;strada academiei 39-41
+16;1487;strada gheorghe pop de basesti 1;856;strada georgescu mihail 9
+16;1488;strada gheorghe pop de basesti 6;856;strada georgescu mihail 9
+16;1489;strada gheorghe pop de basesti 13;857;strada georgescu mihail 10
+15;1490;strada gheorghe pop de basesti 21;860;strada georgescu mihail 21
+17;1491;strada gheorghe pop de basesti 32;193;strada berthelot h m 12
+17;1492;strada gheorghe pop de basesti 56;186;strada berthelot h m 5
+13;1493;strada gheorghe preotescu 13;192;strada berthelot h m 10
+12;1494;strada gheorghe preotescu 18;195;strada berthelot h m 18
+12;1495;strada gheorghe preotescu 24;862;strada georgescu mihail 24
+13;1496;strada gheorghe preotescu 25;186;strada berthelot h m 5
+13;1497;strada gheorghe preotescu 26;199;strada berthelot h m 36
+13;1498;strada gheorghe preotescu 29;196;strada berthelot h m 19
+10;1499;strada giacomo puccini 1;755;strada episcopiei 1
+8;1500;strada gina patrichi 1;1417;strada patriei 3
+12;1501;strada gioacchino rossini 6;622;strada demarat zossima 6
+4;1502;calea giulesti 11;678;calea dudesti 111
+4;1503;calea giulesti 42;695;calea dudesti 142
+6;1504;calea giulesti 50-52;675;calea dudesti 102
+3;1505;calea giulesti 133;689;calea dudesti 133
+8;1506;soseaua giurgiului 220;886;soseaua iancului 3
+8;1507;strada gradina cu cai 1;877;strada gradinarilor 12
+10;1508;strada grigore alexandrescu 75;1652;strada romano alexandru 15
+10;1509;strada grigore alexandrescu 76;1653;strada romano alexandru 16
+10;1510;strada grigore alexandrescu 82;1650;strada romano alexandru 8
+10;1511;strada grigore alexandrescu 61;1656;strada romano alexandru 21
+13;1512;intrarea grigore cantilli 4;55;intrarea alexe marin 2
+10;1513;strada grigore cobalcescu 5;882;strada grigorescu eremia 3
+10;1514;strada grigore cobalcescu 7;882;strada grigorescu eremia 3
+10;1515;strada grigore cobalcescu 8;882;strada grigorescu eremia 3
+9;1516;strada grigore cobalcescu 12;883;strada grigorescu eremia 12
+10;1517;strada grigore cobalcescu 13;882;strada grigorescu eremia 3
+10;1518;strada grigore cobalcescu 18;883;strada grigorescu eremia 12
+10;1519;strada grigore cobalcescu 29;888;strada grigorescu eremia 26
+10;1520;strada grigore cobalcescu 35;882;strada grigorescu eremia 3
+11;1521;strada grigore cobalcescu 40;882;strada grigorescu eremia 3
+11;1522;strada grigore cobalcescu 45;882;strada grigorescu eremia 3
+11;1523;strada grigore cobalcescu 45;882;strada grigorescu eremia 3
+10;1524;strada grigore cobalcescu 54;885;strada grigorescu eremia 14
+10;1525;strada grigore cobalcescu 56;887;strada grigorescu eremia 16
+9;1526;strada grigore moisil 4;882;strada grigorescu eremia 3
+11;1527;strada grigore raducanu 19;883;strada grigorescu eremia 12
+11;1528;strada grigore raducanu 21;566;strada cristian radu 2
+1;1529;calea grivitei 23a;896;calea grivitei 23
+1;1530;calea grivitei 43;884;calea grivitei 41
+1;1531;calea grivitei 63;894;calea grivitei 13
+3;1532;calea grivitei 166a;893;calea grivitei 11
+2;1533;calea grivitei 172;889;calea grivitei 2
+2;1534;calea grivitei 174b;923;calea grivitei 74
+3;1535;calea grivitei 184c;884;calea grivitei 41
+3;1536;strada gutemberg 4;942;strada gutenberg 19
+3;1537;strada gutemberg 6;942;strada gutenberg 19
+3;1538;strada gutemberg 8;942;strada gutenberg 19
+2;1539;strada gutemberg 10;942;strada gutenberg 19
+2;1540;strada gutemberg 12;942;strada gutenberg 19
+2;1541;strada gutemberg 16;942;strada gutenberg 19
+4;1542;strada hagiului 10;809;strada fluviului 10
+1;1543;strada halmeu 13;950;strada halmeu 1
+12;1544;strada haralambie botescu 14;1722;strada scarlatescu 20
+14;1545;piata haralambie botescu 2;853;piata gara filaret 1
+14;1546;piata haralambie botescu 11;853;piata gara filaret 1
+2;1547;strada harjeu 7;952;strada halmeu 7
+17;1548;strada henri mathias berthelot 59;568;strada cristian radu 5
+17;1549;strada henri mathias berthelot 61;603;strada daimaca victor 1
+3;1550;strada herta 7;945;strada haga 7
+5;1551;strada horatiu 17;178;strada baratiei 27
+6;1552;strada horei 5bis;98;strada atena 2bis
+6;1553;strada horei 7bis;98;strada atena 2bis
+3;1554;strada horei 8;507;strada coltei 8
+3;1555;strada horei 16;509;strada coltei 16
+4;1556;strada horei 30;502;strada coltei 3
+5;1557;strada hrisovului 14;814;strada foisorului 106
+8;1558;bulevardul i c bratianu 2;289;bulevardul bratianu i c 2
+9;1559;bulevardul i c bratianu 6;1;bulevardul bratianu i c 1
+9;1560;bulevardul i c bratianu 14;1;bulevardul bratianu i c 1
+9;1561;bulevardul i c bratianu 34;1;bulevardul bratianu i c 1
+9;1562;bulevardul i c bratianu 35;1;bulevardul bratianu i c 1
+9;1563;bulevardul i c bratianu 39;1;bulevardul bratianu i c 1
+9;1564;bulevardul i c bratianu 44;1;bulevardul bratianu i c 1
+6;1565;strada iacob felix 72;979;strada icoanei 72
+9;1566;strada iacob negruzzi 28;974;strada icoanei 58
+9;1567;strada iacob negruzzi 30;975;strada icoanei 60
+17;1568;strada iancu cavaler de flondor 7;136;strada baia de fier 3
+5;1569;bulevardul iancu de hunedoara 37;969;bulevardul iancu de hunedoara 56-60
+2;1570;soseaua iancului 47;886;soseaua iancului 3
+2;1571;soseaua iancului 57;886;soseaua iancului 3
+2;1572;soseaua iancului 59;886;soseaua iancului 3
+1;1573;soseaua iancului 53;886;soseaua iancului 3
+1;1574;soseaua iancului 39;886;soseaua iancului 3
+3;1575;soseaua iancului 128;886;soseaua iancului 3
+4;1576;strada icoanei 38-38a;2;strada icoanei 3-5
+1;1577;strada icoanei 40;975;strada icoanei 60
+9;1578;bulevardul hristo botev 13;116;bulevardul aviatorilor 13
+12;1579;strada ienachita vacarescu 3;721;strada elias jacques 3
+12;1580;strada ienachita vacarescu 8;612;strada davila carol 8
+13;1581;strada ienachita vacarescu 14;610;strada davila carol 4
+13;1582;strada ienachita vacarescu 19;1968;strada vlaicu aurel 19
+12;1583;strada ienachita vacarescu 20;1722;strada scarlatescu 20
+13;1584;strada ienachita vacarescu 41;610;strada davila carol 4
+13;1585;strada ienachita vacarescu 45;610;strada davila carol 4
+13;1586;strada ienachita vacarescu 46;610;strada davila carol 4
+13;1587;strada ienachita vacarescu 47;610;strada davila carol 4
+12;1588;strada ienachita vacarescu 48;1723;strada scarlatescu 48
+13;1589;strada ienachita vacarescu 50;1204;strada matei basarab 50
+9;1590;strada ilarie chendi 44;151;strada barierei 39
+1;1591;strada ilfov 2;981;strada ilfov 3
+1;1592;splaiul independentei 56;987;splaiul independentei 5
+2;1593;splaiu independentei 84;990;splaiul independentei 74
+5;1594;strada inisor 19;175;strada baniei 19
+8;1595;intrarea intre garle 9;55;intrarea alexe marin 2
+9;1596;intrarea intre garle 13;55;intrarea alexe marin 2
+8;1597;strada invingatorilor 22;877;strada gradinarilor 12
+11;1598;strada ioan budai deleanu 5;651;strada dobrescu i demetru 5
+8;1599;strada ioan filitti 5;504;strada coltei 5
+8;1600;strada ioan filitti 8;278;strada brailita 28
+8;1601;strada ioan filitti 10;336;strada caimatei 10
+11;1602;strada ioan voda caragea 2;610;strada davila carol 4
+11;1603;strada ioan voda caragea 3;610;strada davila carol 4
+11;1604;strada ioan voda caragea 27;627;strada doamna chiajna 24
+9;1605;strada ion andreescu 1;1724;strada scarlatescu 51
+9;1606;strada ion andreescu 4;1201;strada monetariei 4
+10;1607;strada ion andreescu 6;11;strada londra 16
+9;1608;strada ion andreescu 10;84;strada armeneasca 10
+9;1609;strada ion andreescu 11;495;strada coanda henri 11
+9;1610;strada ion andreescu 17;1128;strada londra 17
+9;1611;strada ion andreescu 29;1514;strada popa rusu 24
+9;1612;strada ion brezoianu 8;294;strada brezoianu ion 1
+9;1613;strada ion brezoianu 9;294;strada brezoianu ion 1
+8;1614;strada ion brezoianu 10;1610;strada raureanu 10
+8;1615;strada ion brezoianu 51;294;strada brezoianu ion 1
+7;1616;intrarea ion calin 2;55;intrarea alexe marin 2
+6;1617;strada ion calin 3;160;strada bacani 3
+6;1618;strada ion calin 20;1131;strada londra 20
+6;1619;strada ion calin 35;1135;strada londra 35
+8;1620;strada ion florescu 2;1722;strada scarlatescu 20
+8;1621;strada ion florescu 19;799;strada florescu ion 9
+5;1622;strada ion ghica 1;632;strada doamna ghica 3
+12;1623;strada ion luca caragiale 1a;996;strada ionescu grigore 28
+11;1624;strada ion luca caragiale 3;997;strada ionescu grigore 34
+11;1625;strada ion luca caragiale 8;612;strada davila carol 8
+12;1626;strada ion luca caragiale 19;996;strada ionescu grigore 28
+11;1627;strada ion luca caragiale 22;996;strada ionescu grigore 28
+10;1628;strada ion maiorescu 7;127;strada avram iancu 1
+8;1629;strada ion maiorescu 20;1722;strada scarlatescu 20
+9;1630;strada ion maiorescu 59;1724;strada scarlatescu 51
+9;1631;strada ion maiorescu 61;1724;strada scarlatescu 51
+9;1632;bulevardul ion mihalache 18;1253;bulevardul mihalache ion 10
+10;1633;bulevardul ion mihalache 65;1253;bulevardul mihalache ion 10
+10;1634;bulevardul ion mihalache 66;1253;bulevardul mihalache ion 10
+10;1635;bulevardul ion mihalache 70-84;1253;bulevardul mihalache ion 10
+10;1636;bulevardul ion mihalache 94;1253;bulevardul mihalache ion 10
+10;1637;bulevardul ion mihalache 295-297;1254;bulevardul mihalache ion 20
+9;1638;bulevardul ion mihalache 329;1254;bulevardul mihalache ion 20
+10;1639;bulevardul ion mihalache 333;1253;bulevardul mihalache ion 10
+7;1640;strada ion mincu 27;340;strada doamnei 20
+7;1641;strada ion neculce 39;1013;strada iorga nicolae 19
+7;1642;strada ion neculce 74;1010;strada iorga nicolae 7
+7;1643;strada ion nistor 2;654;strada docentilor 20
+6;1644;strada ion nistor 6;1096;strada lister 6
+11;1645;strada ion otetelesanu 5;319;strada burghelea 5
+7;1646;strada ion puscariu 9;1330;strada negustori 9
+8;1647;strada ion racoteanu 2;1609;strada raureanu 4
+8;1648;strada ion radovici 10;1125;strada londra 10
+5;1649;strada irimicului 2;1588;strada ritmului 1
+1;1650;strada italiana 1;1017;strada italiana 3
+1;1651;strada italiana 23;1017;strada italiana 3
+8;1652;strada iulia hasdeu 1;950;strada halmeu 1
+7;1653;bulevardul iuliu maniu 59;1166;bulevardul maniu iuliu 9
+8;1654;bulevardul iuliu maniu 23;1166;bulevardul maniu iuliu 9
+8;1655;bulevardul iuliu maniu 128;1174;bulevardul regina maria 18
+17;1656;strada ivan petrovici pavlov 29-31;76;strada andric ivo 1
+17;1657;strada ivan petrovici pavlov 33-35;78;strada andric ivo 3
+6;1658;strada ivo andric 6;233;strada blanari 6
+6;1659;strada ivo andric 10;970;strada icoanei 12
+13;1660;strada jean louis calderon 14;226;strada blank louis 9a
+13;1661;strada jean louis calderon 26;226;strada blank louis 9a
+8;1662;strada joseph lister 5;1096;strada lister 6
+6;1663;strada judetului 22;96;strada atelierului 22
+4;1664;strada lanariei 144;237;strada blanari 14
+5;1665;strada lanariei 144a;237;strada blanari 14
+4;1666;strada lanariei 146;237;strada blanari 14
+6;1667;strada lantului 1-1b;148;strada banului 3
+11;1668;bulevardul lascar catargiu 7;869;bulevardul ghica tei 77
+11;1669;bulevardul lascar catargiu 9;147;bulevardul banul manta 9
+12;1670;bulevardul lascar catargiu 9a;147;bulevardul banul manta 9
+14;1671;bulevardul lascar catargiu 24-26;868;bulevardul ghica tei 67-69
+11;1672;bulevardul lascar catargiu 27;382;bulevardul carol i 27
+11;1673;bulevardul lascar catargiu 28;1472;bulevardul primaverii 28
+11;1674;bulevardul lascar catargiu 41;1833;bulevardul sincai gheorghe 4
+11;1675;bulevardul lascar catargiu 45;1833;bulevardul sincai gheorghe 4
+2;1676;strada latina 4;100;strada atena 4
+2;1677;strada leon voda 15;1067;strada leon voda 3
+2;1678;strada leon voda 18;1067;strada leon voda 3
+9;1679;strada leonida varnali 15;1127;strada londra 15
+4;1680;strada licurg 2;298;strada bucur 5
+6;1681;intrarea licurici 2;1341;intrarea noptii 2
+5;1682;intrarea licurici 4;1971;intrarea voicu ion 4
+1;1683;strada lipscani 3;3;strada lipscani 32
+1;1684;strada lipscani 19;0;strada lipscani 16
+1;1685;strada lipscani 39;3;strada lipscani 32
+2;1686;strada lipscani 48-50;1071;strada lipscani 18-20
+4;1687;strada lirei 20;511;strada coltei 20
+4;1688;strada liveni 3;99;strada atena 3
+1;1689;strada lizeanu 12;812;strada lizeanu 13
+1;1690;strada lizeanu 23;812;strada lizeanu 13
+18;1691;strada locotenent ilie cimpeanu 22;496;strada coanda henri 22
+7;1692;strada logofatul dan 2;1123;strada logofatul udriste 21
+2;1693;strada logofatul luca stroici 3;1117;strada logofatul luca stroici 33a
+3;1694;strada logofatul luca stroici 11;1117;strada logofatul luca stroici 33a
+3;1695;strada logofatul luca stroici 15;1117;strada logofatul luca stroici 33a
+3;1696;strada logofatul luca stroici 17;1117;strada logofatul luca stroici 33a
+3;1697;strada logofatul luca stroici 22;1117;strada logofatul luca stroici 33a
+4;1698;strada lotru 59;1130;strada londra 19
+8;1699;strada louis pasteur 23;1099;strada lister 21
+8;1700;strada louis pasteur 38;1097;strada lister 8
+8;1701;strada louis pasteur 61;1096;strada lister 6
+6;1702;strada luceafarului 2;1799;strada spatarului 3
+15;1703;strada ludwig van beethoven 2;60;strada aman theodor 2
+11;1704;strada luigi cazzavillan 15;1979;strada vuia traian 5
+8;1705;aleea lunguletu 6;37;aleea alexandru 6
+3;1706;strada lunii 6;1780;strada slanic 6
+4;1707;strada luntrei 6;233;strada blanari 6
+4;1708;strada luntrei 3;171;strada baniei 3
+12;1709;strada macarie cantaretul 4;369;strada caracas constantin 3
+10;1710;strada magura vulturului 31;1015;strada ispravnicului 31
+1;1711;strada maica domnului 48;1161;strada maica domnului 49
+1;1712;strada maica domnului 52;1164;strada maica domnului 51
+10;1713;strada alexandru campeanu 10;22;strada alecsandri vasile 10
+11;1714;strada alexandru campeanu 36;18;strada alecsandri vasile 6
+11;1715;strada alexandru campeanu 38;20;strada alecsandri vasile 8
+5;1716;strada maltopol 17;1732;strada sevastopol 10
+6;1717;aleea mantuleasa 2;1235;strada mantuleasa 20
+1;1718;strada mantuleasa 32;1241;strada mantuleasa 33
+1;1719;strada mantuleasa 37;1233;strada mantuleasa 17
+1;1720;strada mantuleasa 38;1241;strada mantuleasa 33
+4;1721;bulevardul marasesti 28;1223;bulevardul marasti 61
+2;1722;bulevardul marasti 43;1223;bulevardul marasti 61
+8;1723;strada marcu armasu 1;1221;strada mamulari 3
+7;1724;strada marcu armasu 3;1221;strada mamulari 3
+8;1725;strada marcu armasu 5;1221;strada mamulari 3
+8;1726;strada marcu armasu 7;1221;strada mamulari 3
+8;1727;strada marcu armasu 9;1221;strada mamulari 3
+8;1728;strada marcu armasu 11;1156;strada maica domnului 11
+12;1729;strada maria hagi moscu 19-21;1250;strada mihai voda 11
+9;1730;strada maria rosetti 12;151;strada barierei 39
+8;1731;strada maria rosetti 13;152;strada batistei 13
+9;1732;strada maria rosetti 17;151;strada barierei 39
+8;1733;strada maria rosetti 18;276;strada bradesti 18
+8;1734;strada maria rosetti 30;151;strada barierei 39
+12;1735;strada marin serghiescu 6-8;15;strada carada eugeniu 1-3
+10;1736;strada marin serghiescu 10;141;strada baia de fier 10
+2;1737;strada masina de paine 20;1194;strada masina de paine 47
+2;1738;strada masina de paine 22;1194;strada masina de paine 47
+2;1739;strada masina de paine 23;1194;strada masina de paine 47
+1;1740;strada masina de paine 41;1194;strada masina de paine 47
+11;1741;strada matache dobrescu 3;59;strada aman theodor 1
+4;1742;strada matasari 14;153;strada batistei 14
+4;1743;strada matasari 23;1221;strada mamulari 3
+6;1744;strada matasari 32-34;1197;strada matei basarab 32-34
+4;1745;strada matasari 38;1221;strada mamulari 3
+5;1746;strada matasari 41;154;strada batistei 21
+5;1747;strada matasari 47;232;strada blanari 4
+1;1748;strada matei basarab 33;1211;strada matei basarab 63
+2;1749;strada matei voievod 4;1213;strada matei voievod 31
+2;1750;strada matei voievod 6;1213;strada matei voievod 31
+2;1751;strada matei voievod 8;1213;strada matei voievod 31
+1;1752;strada matei voievod 13;1216;strada matei voievod 33
+1;1753;strada matei voievod 20a;1212;strada matei voievod 22a
+1;1754;strada matei voievod 62;1214;strada matei voievod 32
+1;1755;strada matei voievod 71;1213;strada matei voievod 31
+5;1756;strada matei voievod 103-113;1213;strada matei voievod 31
+6;1757;strada matei voievod 115-123;1212;strada matei voievod 22a
+7;1758;strada maxim gorki 26;1231;strada martisor 26
+12;1759;strada maximilian popper 21;603;strada daimaca victor 1
+8;1760;strada metalurgiei 5-7;1201;strada monetariei 4
+11;1761;soseaua mihai bravu 64-88;1377;soseaua panduri 62-68
+12;1762;soseaua mihai bravu 67-73;1377;soseaua panduri 62-68
+12;1763;soseaua mihai bravu 85-93;1379;soseaua panduri 90-92
+13;1764;soseaua mihai bravu 98-106;1379;soseaua panduri 90-92
+14;1765;soseaua mihai bravu 147-169;1250;strada mihai voda 11
+10;1766;soseaua mihai bravu 29;683;soseaua panduri 28
+10;1767;soseaua mihai bravu 37;886;soseaua iancului 3
+11;1768;soseaua mihai bravu 42-62;1377;soseaua panduri 62-68
+12;1769;soseaua mihai bravu 57-65;1377;soseaua panduri 62-68
+12;1770;intrarea mihai eminescu 1;373;intrarea caragiale i l 1
+9;1771;strada mihai eminescu 23;1251;strada mihai voda 13
+9;1772;strada mihai eminescu 26;2020;strada zola emile 2
+9;1773;strada mihai eminescu 36;2021;strada zola emile 6
+10;1774;strada mihai eminescu 40;84;strada armeneasca 10
+9;1775;strada mihai eminescu 57;1247;strada mihai voda 5
+10;1776;strada mihai eminescu 76a;1248;strada mihai voda 7
+10;1777;strada mihai eminescu 77a;1248;strada mihai voda 7
+10;1778;strada mihai eminescu 127;954;strada halmeu 17
+9;1779;strada mihai eminescu 132;1251;strada mihai voda 13
+10;1780;strada mihai eminescu 140;84;strada armeneasca 10
+9;1781;strada mihai eminescu 150;1252;strada mihai voda 15
+9;1782;strada mihai eminescu 155;1252;strada mihai voda 15
+10;1783;strada mihai eminescu 166;1250;strada mihai voda 11
+10;1784;strada mihai eminescu 176;954;strada halmeu 17
+10;1785;strada mihai eminescu 182;1250;strada mihai voda 11
+14;1786;bulevardul mihail kogalniceanu 5;758;bulevardul eroii sanitari 8
+14;1787;bulevardul mihail kogalniceanu 7;758;bulevardul eroii sanitari 8
+13;1788;bulevardul mihail kogalniceanu 8;758;bulevardul eroii sanitari 8
+13;1789;bulevardul mihail kogalniceanu 9;1166;bulevardul maniu iuliu 9
+12;1790;bulevardul mihail kogalniceanu 10;1253;bulevardul mihalache ion 10
+13;1791;bulevardul mihail kogalniceanu 13;1253;bulevardul mihalache ion 10
+13;1792;bulevardul mihail kogalniceanu 21;1254;bulevardul mihalache ion 20
+14;1793;bulevardul mihail kogalniceanu 35;539;bulevardul coposu corneliu 35
+13;1794;bulevardul mihail kogalniceanu 39;1726;bulevardul schitu magureanu 19
+14;1795;bulevardul mihail kogalniceanu 41;762;bulevardul eroii sanitari 61
+14;1796;bulevardul mihail kogalniceanu 45;1253;bulevardul mihalache ion 10
+14;1797;bulevardul mihail kogalniceanu 55;545;bulevardul coposu corneliu 55
+15;1798;piata mihail kogalniceanu 8;1649;piata romana 8
+16;1799;piata mihail kogalniceanu 3;853;piata gara filaret 1
+11;1800;strada mihail mirinescu 19;127;strada avram iancu 1
+13;1801;strada mihail mirinescu 20-22;1722;strada scarlatescu 20
+8;1802;strada mihail obedenaru 11;1250;strada mihai voda 11
+9;1803;strada mircea vasilescu 13;1430;strada parvan vasile 12
+2;1804;bulevardul mircea voda 14;1272;bulevardul mircea voda 5
+1;1805;bulevardul mircea voda 57;1272;bulevardul mircea voda 5
+11;1806;strada mircea vulcanescu 2-4;1722;strada scarlatescu 20
+10;1807;strada mircea vulcanescu 42;1723;strada scarlatescu 48
+10;1808;strada mircea vulcanescu 61;1724;strada scarlatescu 51
+11;1809;strada mircea vulcanescu 76a;1271;strada mircea cel batran 16
+11;1810;strada mircea vulcanescu 119;1271;strada mircea cel batran 16
+16;1811;strada mitropolit antim ivireanu 12;1565;strada racovita dimitrie 12
+17;1812;strada mitropolit antim ivireanu 45;493;strada clopotarii vechi 4
+19;1813;strada mitropolit costache veniamin 21a;547;strada costache aristia 29
+12;1814;strada mitropolit filaret 16;1260;strada minovici nicolae 1
+12;1815;strada mitropolit filaret 73;1262;strada minovici nicolae 3
+11;1816;strada mitropolit iosif 49;1265;strada minulescu ion 49
+11;1817;strada mitropolit nifon 12;296;strada brezoianu ion 12
+11;1818;strada mitropolit nifon 14;1260;strada minovici nicolae 1
+11;1819;strada mitropolit nifon 16;1260;strada minovici nicolae 1
+11;1820;strada mitropolit nifon 27;1317;strada movila ion 5
+11;1821;strada mitropolit nifon 32;1262;strada minovici nicolae 3
+11;1822;strada mitropolit nifon 37;1262;strada minovici nicolae 3
+5;1823;strada moldovita 12;1493;strada polona 12
+6;1824;strada monumentului 6;9;strada afluentului 30
+6;1825;strada monumentului 8;9;strada afluentului 30
+4;1826;strada morilor 28;1231;strada martisor 26
+1;1827;calea mosilor 10;1287;calea mosilor 19
+1;1828;calea mosilor 18;1287;calea mosilor 19
+1;1829;calea mosilor 80;1296;calea mosilor 40
+3;1830;calea mosilor 86bis;1307;calea mosilor 86
+10;1831;strada radu calomfirescu 13;345;strada calomfirescu radu 3
+1;1832;calea mosilor 98;1275;calea mosilor 91
+2;1833;calea mosilor 103;1287;calea mosilor 19
+2;1834;calea mosilor 105;1287;calea mosilor 19
+2;1835;calea mosilor 106;1287;calea mosilor 19
+1;1836;calea mosilor 108;1313;calea mosilor 128
+2;1837;calea mosilor 115;1261;calea mosilor 71
+1;1838;calea mosilor 120;1311;calea mosilor 122
+0;1839;strada slanic 2;1778;strada slanic 2
+1;1840;calea mosilor 123;1289;calea mosilor 23
+1;1841;calea mosilor 124;1311;calea mosilor 122
+1;1842;calea mosilor 126;1311;calea mosilor 122
+0;1843;strada smardan 11;1788;strada smardan 11
+0;1844;calea victoriei 23;1376;calea victoriei 23
+1;1845;calea mosilor 203;1289;calea mosilor 23
+1;1846;calea mosilor 223;1289;calea mosilor 23
+1;1847;calea mosilor 251;1288;calea mosilor 21
+2;1848;calea mosilor 113;1261;calea mosilor 71
+11;1849;drumul murgului 40;490;aleea circului 15
+5;1850;strada muzelor 5;298;strada bucur 5
+5;1851;strada muzelor 19;1106;strada lizeanu 19
+13;1852;piata natiunile unite 3-5;855;piata garii de nord 1
+5;1853;strada negoiu 37;1409;strada paris 37
+7;1854;aleea negreni 2;1284;aleea modrogan 2
+8;1855;aleea negreni 3;1283;aleea modrogan 1
+8;1856;aleea negreni 8;39;aleea alexandru 8
+8;1857;aleea negreni 9;1283;aleea modrogan 1
+8;1858;aleea negreni 17;490;aleea circului 15
+8;1859;aleea negreni 18;490;aleea circului 15
+8;1860;aleea negreni 19;41;aleea alexandru 19
+8;1861;aleea negreni 22;42;aleea alexandru 22
+0;1862;calea mosilor 34;1293;calea mosilor 34
+1;1863;strada negustori 19;1324;strada negustori 1a
+1;1864;strada negustori 24;1333;strada negustori 14
+12;1865;bulevardul nicolae balcescu 16;875;bulevardul golescu dinicu 16
+9;1866;strada nicolae drossu 26;1514;strada popa rusu 24
+10;1867;strada nicolae filimon 1;500;strada coltei 1
+12;1868;strada nicolae filipescu 32;1722;strada scarlatescu 20
+12;1869;strada nicolae filipescu 34;366;strada cameliei 34
+11;1870;strada nicolae filipescu 50;1722;strada scarlatescu 20
+11;1871;strada nicolae filipescu 59;1724;strada scarlatescu 51
+10;1872;strada nicolae golescu 7;1245;strada michelet jules 8
+9;1873;strada nicolae iorga 15a;982;strada mioara 15
+13;1874;strada nicolae staicovici 37;1010;strada iorga nicolae 7
+13;1875;soseaua nicolae titulescu 56;499;soseaua colentina 
+13;1876;soseaua nicolae titulescu 88;499;soseaua colentina 
+10;1877;strada nicolae tonitza 10;787;strada finlanda 10
+11;1878;strada nicolae turnescu 15;970;strada icoanei 12
+12;1879;intrarea nicolae vermont 1;55;intrarea alexe marin 2
+12;1880;intrarea nicolae vermont 3;55;intrarea alexe marin 2
+12;1881;intrarea nicolae vermont 7;55;intrarea alexe marin 2
+1;1882;strada occidentului 1;1354;strada occidentului 11
+1;1883;strada occidentului 13;1354;strada occidentului 11
+1;1884;strada occidentului 24;1355;strada occidentului 14
+1;1885;strada occidentului 34;1355;strada occidentului 14
+2;1886;strada occidentului 43;1354;strada occidentului 11
+2;1887;strada occidentului 45;1354;strada occidentului 11
+2;1888;strada occidentului 49;1354;strada occidentului 11
+5;1889;strada odobesti 7;275;strada bradesti 3
+2;1890;strada olari 14;1356;strada olari 6
+1;1891;strada olari 30;1358;strada olari 32
+1;1892;strada olimpului 1;1359;strada olimpului 17
+2;1893;strada olimpului 3;1359;strada olimpului 17
+2;1894;strada olimpului 6;1359;strada olimpului 17
+2;1895;strada olimpului 7a;1359;strada olimpului 17
+2;1896;strada olimpului 9;1359;strada olimpului 17
+1;1897;strada olimpului 10;1359;strada olimpului 17
+1;1898;strada olimpului 13;1359;strada olimpului 17
+1;1899;strada olimpului 14;1359;strada olimpului 17
+2;1900;strada olimpului 21;1359;strada olimpului 17
+2;1901;strada olimpului 24;1359;strada olimpului 17
+1;1902;strada olimpului 27;1359;strada olimpului 17
+2;1903;strada olimpului 29;1359;strada olimpului 17
+2;1904;strada olimpului 32;1359;strada olimpului 17
+2;1905;strada olimpului 34;1359;strada olimpului 17
+1;1906;strada olimpului 37;1359;strada olimpului 17
+2;1907;strada olimpului 39;1359;strada olimpului 17
+2;1908;strada olimpului 48;1359;strada olimpului 17
+2;1909;strada olimpului 52;1359;strada olimpului 17
+3;1910;strada olimpului 58a;1359;strada olimpului 17
+2;1911;strada olimpului 61;1359;strada olimpului 17
+2;1912;strada olimpului 66;1359;strada olimpului 17
+2;1913;strada olimpului 64;1359;strada olimpului 17
+2;1914;strada olimpului 68;1359;strada olimpului 17
+2;1915;strada olimpului 70;1359;strada olimpului 17
+2;1916;strada olimpului 74;1359;strada olimpului 17
+2;1917;strada olimpului 72;1359;strada olimpului 17
+2;1918;strada olimpului 76;1359;strada olimpului 17
+2;1919;strada olimpului 80;1359;strada olimpului 17
+2;1920;strada olimpului 82;1359;strada olimpului 17
+7;1921;soseaua oltenitei 49;499;soseaua colentina 
+7;1922;soseaua oltenitei 55;499;soseaua colentina 
+7;1923;soseaua oltenitei 57;499;soseaua colentina 
+7;1924;soseaua oltenitei 65;499;soseaua colentina 
+7;1925;soseaua oltenitei 69;499;soseaua colentina 
+7;1926;soseaua oltenitei 81;499;soseaua colentina 
+5;1927;strada orzari 15-17;1371;strada orzari 63
+3;1928;strada orzari 58b;1371;strada orzari 63
+5;1929;strada ostasilor 12;1769;strada sfintilor 12
+5;1930;strada ostasilor 6;1765;strada sfintilor 6
+6;1931;strada ostasilor 19;653;strada docentilor 10
+6;1932;strada ostasilor 31;1764;strada sfintilor 1
+1;1933;strada otetari 6;1373;strada otetari 2
+13;1934;bulevardul pache protopopescu 21;1541;bulevardul protopopescu pache 2
+12;1935;bulevardul pache protopopescu 24;1542;bulevardul protopopescu pache 4
+12;1936;bulevardul pache protopopescu 27;1545;bulevardul protopopescu pache 7
+13;1937;bulevardul pache protopopescu 29;1541;bulevardul protopopescu pache 2
+13;1938;bulevardul pache protopopescu 30;1541;bulevardul protopopescu pache 2
+13;1939;bulevardul pache protopopescu 31;1541;bulevardul protopopescu pache 2
+12;1940;bulevardul pache protopopescu 36;1544;bulevardul protopopescu pache 6
+12;1941;bulevardul pache protopopescu 42;1541;bulevardul protopopescu pache 2
+13;1942;bulevardul pache protopopescu 43;1541;bulevardul protopopescu pache 2
+12;1943;bulevardul pache protopopescu 46;1544;bulevardul protopopescu pache 6
+12;1944;bulevardul pache protopopescu 47;1545;bulevardul protopopescu pache 7
+13;1945;bulevardul pache protopopescu 48;1541;bulevardul protopopescu pache 2
+13;1946;bulevardul pache protopopescu 71;1541;bulevardul protopopescu pache 2
+12;1947;bulevardul pache protopopescu 92;1541;bulevardul protopopescu pache 2
+13;1948;bulevardul pache protopopescu 103;1539;bulevardul protopopescu pache 1-3
+12;1949;piata pache protopopescu 13;1552;piata protopopescu pache 3
+1;1950;strada paleologu 2;1337;strada paleologu 12
+2;1951;strada paleologu 5;1337;strada paleologu 12
+2;1952;strada paleologu 7;1337;strada paleologu 12
+1;1953;strada paleologu 22;1337;strada paleologu 12
+9;1954;strada pamfil nastase 22;1430;strada parvan vasile 12
+9;1955;strada panait istrati 104;153;strada batistei 14
+2;1956;soseaua panduri 10;683;soseaua panduri 28
+1;1957;soseaua panduri 24;683;soseaua panduri 28
+8;1958;soseaua pantelimon 33;683;soseaua panduri 28
+9;1959;soseaua pantelimon 144;683;soseaua panduri 28
+8;1960;soseaua pantelimon 237;683;soseaua panduri 28
+8;1961;soseaua pantelimon 254;683;soseaua panduri 28
+7;1962;soseaua pantelimon 285;683;soseaua panduri 28
+7;1963;soseaua pantelimon 286;683;soseaua panduri 28
+9;1964;soseaua pantelimon 330;683;soseaua panduri 28
+9;1965;soseaua pantelimon 332;683;soseaua panduri 28
+9;1966;soseaua pantelimon 334;683;soseaua panduri 28
+9;1967;soseaua pantelimon 354;683;soseaua panduri 28
+1;1968;strada parfumului 39;1353;strada parfumului 35
+1;1969;strada parintele staniloaie 6;1420;strada parintele staniloaie 2
+1;1970;strada paris 9;1399;strada paris 5
+1;1971;strada patrascu voda 1;693;strada patrascu voda 5
+0;1972;strada patrascu voda 10;1428;strada patrascu voda 10
+0;1973;calea victoriei 56;4;calea victoriei 56
+7;1974;strada paul greceanu 7;1609;strada raureanu 4
+8;1975;strada paul greceanu 26;1609;strada raureanu 4
+8;1976;strada paul ionescu 15;1337;strada paleologu 12
+0;1977;strada academiei 3-5;6;strada academiei 3-5
+8;1978;strada petre cretu 77;185;strada berechet 10a
+8;1979;strada petru cercel 9;1482;strada poenaru bordea 2
+7;1980;strada petru poni 1-3;1443;strada piscului 1-3
+7;1981;strada petru poni 8;1326;strada negustori 3
+7;1982;strada petru poni 18;1324;strada negustori 1a
+8;1983;strada petru rares 1;1399;strada paris 5
+7;1984;strada petru rares 21;1404;strada paris 21
+8;1985;strada petru rares 32;1339;strada negustori 32
+2;1986;strada plantelor 23;1446;strada plantelor 4
+1;1987;strada plantelor 60;1448;strada plantelor 40
+1;1988;strada plantelor 70;1448;strada plantelor 40
+1;1989;strada plantelor 74;1446;strada plantelor 4
+1;1990;strada plantelor 78;1449;strada plantelor 48
+1;1991;strada plantelor 80;1448;strada plantelor 40
+4;1992;calea plevnei 11bis;1375;calea plevnei 134
+1;1993;calea plevnei 15;1465;calea plevnei 135
+1;1994;calea plevnei 22;1452;calea plevnei 26
+1;1995;calea plevnei 26a;1452;calea plevnei 26
+0;1996;strada baia de fier 4;137;strada baia de fier 4
+3;1997;calea plevnei 46-48;1455;calea plevnei 46
+1;1998;calea plevnei 56;1452;calea plevnei 26
+1;1999;calea plevnei 57;1456;calea plevnei 54
+1;2000;strada poenaru bordea 6;1482;strada poenaru bordea 2
+4;2001;strada poenaru bordea 8-10;1482;strada poenaru bordea 2
+1;2002;strada poenaru bordea 4;1482;strada poenaru bordea 2
+2;2003;strada poiana florilor 27;1483;strada poiana florilor 15
+8;2004;strada poiana narciselor 8;1483;strada poiana florilor 15
+7;2005;strada poiana narciselor 10;1483;strada poiana florilor 15
+1;2006;strada polona 23;1487;strada polona 2
+2;2007;strada polona 23c;1487;strada polona 2
+1;2008;strada polona 90;1491;strada polona 9
+5;2009;strada popa marin 3;1516;strada popa soare 2
+4;2010;strada popa nan 2;1487;strada polona 2
+5;2011;strada popa nan 11;1492;strada polona 10
+4;2012;strada popa nan 49;1505;strada polona 49
+4;2013;strada popa nan 60;1523;strada popa soare 60
+5;2014;strada popa nan 68;1489;strada polona 6
+5;2015;strada popa nan 88;1490;strada polona 8
+5;2016;strada popa nan 115b;1513;strada popa nan 47bis
+4;2017;strada popa petre 15;1521;strada popa soare 55
+4;2018;strada popa petre 28;1516;strada popa soare 2
+4;2019;strada popa petre 42;1516;strada popa soare 2
+2;2020;strada popa rusu 9;1514;strada popa rusu 24
+2;2021;strada popa rusu 12;1514;strada popa rusu 24
+2;2022;strada popa rusu 17;1514;strada popa rusu 24
+1;2023;strada popa rusu 23;1514;strada popa rusu 24
+1;2024;strada popa soare 9;1516;strada popa soare 2
+1;2025;strada popa soare 20;1516;strada popa soare 2
+9;2026;strada popa stefan 9-11;1513;strada popa nan 47bis
+6;2027;strada popa tatu 1-3;1514;strada popa rusu 24
+5;2028;strada popa tatu 29a;1514;strada popa rusu 24
+6;2029;strada popa tatu 37a;1514;strada popa rusu 24
+5;2030;strada popa tatu 42;1514;strada popa rusu 24
+5;2031;strada popa tatu 48;1514;strada popa rusu 24
+4;2032;strada popa tatu 52;1519;strada popa soare 52
+5;2033;strada popa tatu 70;1514;strada popa rusu 24
+5;2034;strada popa tatu 72;1514;strada popa rusu 24
+4;2035;strada poteras 3;99;strada atena 3
+4;2036;strada poteras 13;1126;strada londra 13
+4;2037;strada poteras 22;107;strada atena 22
+6;2038;strada poteras 26a;11;strada londra 16
+4;2039;strada poteras 36;1136;strada londra 36
+4;2040;strada poteras 37;1137;strada londra 37
+4;2041;strada poteras 39;1138;strada londra 39
+4;2042;strada poteras 41;1411;strada paris 41
+5;2043;strada poteras 45;100;strada atena 4
+3;2044;strada povernei 7;1533;strada povernei 1-3
+2;2045;strada povernei 10;1533;strada povernei 1-3
+9;2046;strada precupetii vechi 44;406;strada cavafii vechi 11
+9;2047;strada precupetii vechi 50;406;strada cavafii vechi 11
+8;2048;strada precupetii vechi 61;406;strada cavafii vechi 11
+6;2049;aleea pricopan 4;1283;aleea modrogan 1
+5;2050;aleea pricopan 6;1285;aleea modrogan 6
+6;2051;aleea pricopan 6a;1285;aleea modrogan 6
+6;2052;aleea pricopan 8;1283;aleea modrogan 1
+6;2053;aleea pricopan 12;1283;aleea modrogan 1
+2;2054;strada principatele unite 2;1538;strada principatele unite 63
+2;2055;strada principatele unite 2;1538;strada principatele unite 63
+2;2056;strada principatele unite 59;1538;strada principatele unite 63
+1;2057;strada principatele unite 64;1538;strada principatele unite 63
+2;2058;strada principatele unite 70;1538;strada principatele unite 63
+2;2059;strada principatele unite 71;1538;strada principatele unite 63
+7;2060;strada profesorilor 4;782;strada fetitelor 4
+8;2061;strada profesorilor 8;653;strada docentilor 10
+11;2062;intrarea progresului 17c;1340;intrarea noptii 1
+6;2063;strada progresului 3;1799;strada spatarului 3
+6;2064;strada progresului 4;87;strada armindenului 4
+6;2065;strada progresului 16;91;strada atelierului 16
+5;2066;strada puscasului 18;1393;strada parfumului 18
+7;2067;strada radu beller 25;1572;strada radu voda 26
+0;2068;strada baia de fier 6;139;strada baia de fier 6
+0;2069;strada blanari 2;159;strada blanari 2
+0;2070;strada blanari 8;234;strada blanari 8
+4;2071;strada rafael 2;1534;strada praga 2
+2;2072;calea rahovei 51;1577;calea rahovei 171
+2;2073;calea rahovei 53;1575;calea rahovei 163
+2;2074;calea rahovei 65;1575;calea rahovei 163
+1;2075;calea rahovei 69;1576;calea rahovei 169
+1;2076;calea rahovei 71;1577;calea rahovei 171
+2;2077;calea rahovei 72;1577;calea rahovei 171
+4;2078;calea rahovei 74-76;1577;calea rahovei 171
+2;2079;calea rahovei 86;1575;calea rahovei 163
+2;2080;calea rahovei 92;1581;calea rahovei 196
+6;2081;strada raspantiilor 29;1767;strada sfintilor 9
+1;2082;strada raureanu 5;1609;strada raureanu 4
+1;2083;bulevardul regina maria 30;1175;bulevardul regina maria 32
+1;2084;bulevardul regina maria 47;1178;bulevardul regina maria 40
+1;2085;bulevardul regina maria 57;937;bulevardul regina maria 54
+0;2086;bulevardul regina maria 62;1180;bulevardul regina maria 62
+1;2087;bulevardul regina maria 74;937;bulevardul regina maria 54
+0;2088;bulevardul regina elisabeta 15-19;727;bulevardul regina elisabeta 15-19
+1;2089;bulevardul regina elisabeta 30;723;bulevardul regina elisabeta 3
+0;2090;bulevardul regina elisabeta 33;731;bulevardul regina elisabeta 33
+0;2091;bulevardul regina elisabeta 39;734;bulevardul regina elisabeta 39
+0;2092;bulevardul regina elisabeta 41;735;bulevardul regina elisabeta 41
+1;2093;bulevardul regina elisabeta 54;725;bulevardul regina elisabeta 5
+1;2094;bulevardul regina elisabeta 61;611;bulevardul regina elisabeta 21
+1;2095;bulevardul regina elisabeta 71;611;bulevardul regina elisabeta 21
+1;2096;bulevardul regina elisabeta 73;723;bulevardul regina elisabeta 3
+1;2097;bulevardul regina maria 30;1175;bulevardul regina maria 32
+1;2098;bulevardul regina maria 36;1173;bulevardul regina maria 16
+1;2099;bulevardul regina maria 47;1178;bulevardul regina maria 40
+1;2100;bulevardul regina maria 57;937;bulevardul regina maria 54
+0;2101;bulevardul regina maria 62;1180;bulevardul regina maria 62
+1;2102;bulevardul regina maria 74;937;bulevardul regina maria 54
+4;2103;strada ripiceni 2;3;strada lipscani 32
+5;2104;strada ritoride 14;1852;strada tokio 14
+7;2105;strada robert koch 8;1618;strada robescu c f 8
+1;2106;strada roma 41;1643;strada roma 48
+1;2107;strada romulus 6;1660;strada romulus 1
+1;2108;strada romulus 16;1632;strada romulus 18
+3;2109;strada romulus 83-85;1671;strada romulus 35
+3;2110;strada ronda 24;1131;strada londra 20
+4;2111;strada rotasului 4;1588;strada ritmului 1
+4;2112;strada rumeoara 25;846;strada frumoasa 24
+4;2113;strada rumeoara 29;845;strada frumoasa 19
+4;2114;strada rumeoara 30;848;strada frumoasa 33
+4;2115;strada rumeoara 35;848;strada frumoasa 33
+4;2116;strada rusetu 10;1610;strada raureanu 10
+12;2117;strada sachelarie visarion 8;612;strada davila carol 8
+4;2118;strada sagetii 1;360;strada cameliei 1
+4;2119;strada sagetii 5;1715;strada sapientei 5
+5;2120;strada sagetii 9;360;strada cameliei 1
+5;2121;strada salcamilor 7;1766;strada sfintilor 7
+1;2122;strada sapientei 2;1712;strada sapientei 4
+1;2123;strada sapientei 6;1712;strada sapientei 4
+1;2124;strada sarmisegetuza 3;1716;strada sarmisegetusa 3
+1;2125;strada sarmisegetuza 6;1718;strada sarmisegetusa 6
+1;2126;strada sarmisegetuza 8;1719;strada sarmisegetusa 8
+6;2127;strada scarlat otulescu 4;1723;strada scarlatescu 48
+1;2128;strada scarlatescu 26;1722;strada scarlatescu 20
+2;2129;bulevardul schitu magureanu 5;1726;bulevardul schitu magureanu 19
+2;2130;bulevardul schitu magureanu 7;1726;bulevardul schitu magureanu 19
+1;2131;bulevardul schitu magureanu 9;1726;bulevardul schitu magureanu 19
+2;2132;bulevardul schitu magureanu 20;1726;bulevardul schitu magureanu 19
+2;2133;bulevardul schitu magureanu 21;1726;bulevardul schitu magureanu 19
+2;2134;bulevardul schitu magureanu 41;1726;bulevardul schitu magureanu 19
+2;2135;bulevardul schitu magureanu 41b;1726;bulevardul schitu magureanu 19
+2;2136;bulevardul schitu magureanu 51;1726;bulevardul schitu magureanu 19
+2;2137;bulevardul schitu magureanu 57;1726;bulevardul schitu magureanu 19
+4;2138;strada selari 15;982;strada mioara 15
+4;2139;strada selari 17;1356;strada olari 6
+3;2140;strada selari 18;1357;strada olari 8
+3;2141;strada selari 20;1824;strada selari 20-22
+3;2142;strada selari 24;1784;strada slanic 24
+6;2143;strada semicercului 1;89;strada atelierului 12
+6;2144;strada semicercului 2;89;strada atelierului 12
+5;2145;strada semilunei 4;1712;strada sapientei 4
+6;2146;strada semilunei 7;360;strada cameliei 1
+4;2147;strada sepcari 9;235;strada blanari 9
+5;2148;strada sepcari 22;3;strada lipscani 32
+1;2149;calea serban voda 43;1826;calea serban voda 33
+2;2150;calea serban voda 81-83;1830;calea serban voda 183
+2;2151;calea serban voda 109;1825;calea serban voda 29
+2;2152;calea serban voda 111;1828;calea serban voda 123
+2;2153;calea serban voda 115;1828;calea serban voda 123
+1;2154;calea serban voda 126;1828;calea serban voda 123
+2;2155;calea serban voda 138;1826;calea serban voda 33
+1;2156;calea serban voda 143;1828;calea serban voda 123
+1;2157;calea serban voda 147;1829;calea serban voda 167
+2;2158;calea serban voda 266;1825;calea serban voda 29
+2;2159;strada sfanta ecaterina 17;1741;strada sfanta ecaterina 5
+2;2160;strada sfanta ecaterina 11;1741;strada sfanta ecaterina 5
+1;2161;strada sfanta ecaterina 15;1741;strada sfanta ecaterina 5
+7;2162;strada sfanta maria 18a;1750;strada sfanta vineri 13
+1;2163;strada sfanta vineri 10;1750;strada sfanta vineri 13
+7;2164;strada sfantul constantin 7;1803;strada stahi constantin 5-7
+8;2165;strada sfantul constantin 12;371;strada caracas constantin 10
+10;2166;strada sfantul constantin 13-13a;1803;strada stahi constantin 5-7
+7;2167;strada sfantul constantin 14;1702;strada sandu aldea constantin 14
+8;2168;strada sfantul constantin 22;1705;strada sandu aldea constantin 21
+7;2169;strada sfantul constantin 27;1803;strada stahi constantin 5-7
+8;2170;strada sfantul constantin 29a;1803;strada stahi constantin 5-7
+8;2171;strada sfantul constantin 30b;1803;strada stahi constantin 5-7
+8;2172;strada sfantul constantin 30c;1803;strada stahi constantin 5-7
+1;2173;strada sfantul elefterie 8;1751;strada sfantul elefterie 1
+1;2174;strada sfantul elefterie 12;1751;strada sfantul elefterie 1
+2;2175;strada sfantul elefterie 39;1751;strada sfantul elefterie 1
+5;2176;intrarea sfantul mina 6;1755;intrarea sfantul sava 21
+5;2177;intrarea sfantul mina 7;1755;intrarea sfantul sava 21
+5;2178;intrarea sfantul mina 8;1755;intrarea sfantul sava 21
+6;2179;strada sfantul niceta 5;1747;strada sfanta vineri 5
+7;2180;strada sfantul spiridon 2;1758;strada sfantul stefan 
+7;2181;strada sfantul spiridon 8;1758;strada sfantul stefan 
+8;2182;strada sfantul spiridon 12;1758;strada sfantul stefan 
+2;2183;strada sfantul stefan 14;1758;strada sfantul stefan 
+2;2184;strada sfantul stefan 19;1758;strada sfantul stefan 
+7;2185;strada sfintii voievozi 17;1759;strada sfintii apostoli 1
+1;2186;strada sfintilor 3;1764;strada sfintilor 1
+1;2187;strada sfintilor 8;1764;strada sfintilor 1
+0;2188;strada blanari 14;237;strada blanari 14
+1;2189;strada sfintilor 10;1764;strada sfintilor 1
+4;2190;strada sibiu 41;1411;strada paris 41
+8;2191;aleea silistea 1;490;aleea circului 15
+7;2192;aleea silistea 4;890;calea grivitei 4
+1;2193;strada silvestru 2;1773;strada silvestru 12
+2;2194;strada silvestru 9;880;strada silvestru 38
+1;2195;strada silvestru 16;1066;strada silvestru 36
+1;2196;strada silvestru 18;880;strada silvestru 38
+2;2197;strada silvestru 20;880;strada silvestru 38
+4;2198;strada silvestru 27-29;1773;strada silvestru 12
+1;2199;strada silvestru 30;880;strada silvestru 38
+2;2200;strada silvestru 67;880;strada silvestru 38
+8;2201;aleea sinaia 5;36;aleea alexandru 5
+8;2202;aleea sinaia 8;39;aleea alexandru 8
+8;2203;aleea sinaia 10;490;aleea circului 15
+0;2204;strada slanic 6;1780;strada slanic 6
+0;2205;strada slanic 8;1781;strada slanic 8
+0;2206;strada slanic 12;1783;strada slanic 12
+4;2207;strada slanic 14-18;1779;strada slanic 4
+3;2208;strada slanic 20-22;1824;strada selari 20-22
+0;2209;strada slanic 24;1784;strada slanic 24
+1;2210;strada slanic 26;1778;strada slanic 2
+4;2211;strada slavesti 12;276;strada bradesti 18
+1;2212;strada smardan 13;1785;strada smardan 3
+1;2213;strada smardan 15;1786;strada smardan 5
+1;2214;strada smardan 16;1788;strada smardan 11
+1;2215;strada smardan 17;1788;strada smardan 11
+1;2216;strada smardan 19;1787;strada smardan 9
+2;2217;strada smardan 20;1785;strada smardan 3
+1;2218;strada smardan 21;1788;strada smardan 11
+4;2219;strada smardan 23-25;1785;strada smardan 3
+2;2220;strada smardan 27;1785;strada smardan 3
+2;2221;strada smardan 28;1785;strada smardan 3
+1;2222;strada smardan 29;1787;strada smardan 9
+1;2223;strada smardan 31;1785;strada smardan 3
+1;2224;strada smardan 33;1785;strada smardan 3
+1;2225;strada smardan 37;1785;strada smardan 3
+1;2226;strada smardan 41;1788;strada smardan 11
+0;2227;strada smardan 43;1790;strada smardan 43
+5;2228;strada somesului 8;1632;strada romulus 18
+4;2229;strada spatarului 6-6a;1799;strada spatarului 3
+1;2230;strada spatarului 8;1799;strada spatarului 3
+4;2231;strada spatarului 17bis;1800;strada spatarului 19
+1;2232;strada spatarului 27;1801;strada spatarului 22
+1;2233;strada spatarului 29;1800;strada spatarului 19
+1;2234;strada spatarului 32;1799;strada spatarului 3
+1;2235;strada spatarului 37;1799;strada spatarului 3
+2;2236;strada spatarului 44;1799;strada spatarului 3
+5;2237;strada sperantei 3;171;strada baniei 3
+4;2238;strada sperantei 5;1715;strada sapientei 5
+6;2239;intrarea stafetei 1;1340;intrarea noptii 1
+12;2240;strada stanislav cihovschi 7;1748;strada sfanta vineri 7
+10;2241;strada stefan capsa 8-10;787;strada finlanda 10
+8;2242;strada stefan capsa 24;846;strada frumoasa 24
+13;2243;soseaua stefan cel mare 17;886;soseaua iancului 3
+12;2244;soseaua stefan cel mare 23;886;soseaua iancului 3
+13;2245;soseaua stefan cel mare 25;683;soseaua panduri 28
+13;2246;soseaua stefan cel mare 29;683;soseaua panduri 28
+12;2247;soseaua stefan cel mare 35;886;soseaua iancului 3
+12;2248;soseaua stefan cel mare 37;886;soseaua iancului 3
+13;2249;soseaua stefan cel mare 40;886;soseaua iancului 3
+12;2250;soseaua stefan cel mare 31;886;soseaua iancului 3
+13;2251;soseaua stefan cel mare 15;886;soseaua iancului 3
+10;2252;strada stefan luchian 7;148;strada banului 3
+11;2253;strada stefan mihaileanu 2;1835;strada stefanescu teodor 2
+11;2254;strada stefan mihaileanu 20;1818;strada stelea spatarul 20
+12;2255;strada stefan mihaileanu 27;742;strada eminescu mihai 27
+12;2256;strada stefan mihaileanu 31;1808;strada stelea spatarul 3a
+13;2257;strada stefan mihaileanu 32b;662;strada donici alexandru 32
+11;2258;strada stefan protopopescu 3;14;strada stavropoleos 3
+11;2259;strada stefan protopopescu 7;1807;strada stavropoleos 7
+12;2260;strada stefan protopopescu 9;14;strada stavropoleos 3
+13;2261;strada stefan protopopescu 11;14;strada stavropoleos 3
+8;2262;strada stefan stoika 38;1731;strada sevastopol 8
+1;2263;strada stelea spataru 6;1809;strada stelea spatarul 6
+2;2264;strada stelea spataru 7;1809;strada stelea spatarul 6
+1;2265;strada stelea spataru 14;1816;strada stelea spatarul 14
+1;2266;strada stelea spataru 10;1812;strada stelea spatarul 10
+1;2267;strada stelea spataru 10a;1813;strada stelea spatarul 10a
+2;2268;strada stelea spataru 11;1668;strada stelea spatarul 18
+1;2269;strada stelea spataru 20;1818;strada stelea spatarul 20
+1;2270;strada stelea spataru 21;1819;strada stelea spatarul 21
+1;2271;strada stelea spataru 23;1753;strada stelea spatarul 23
+2;2272;strada stirbei voda 10;1839;strada stirbei voda 35
+2;2273;strada stirbei voda 29a;1840;strada stirbei voda 39
+1;2274;strada stirbei voda 30;1839;strada stirbei voda 35
+1;2275;strada stirbei voda 38;1839;strada stirbei voda 35
+2;2276;strada stirbei voda 61;1839;strada stirbei voda 35
+2;2277;strada stirbei voda 68;1839;strada stirbei voda 35
+2;2278;strada stirbei voda 71;1839;strada stirbei voda 35
+10;2279;strada stoian militaru 53;1753;strada stelea spatarul 23
+5;2280;strada straduintei 4;1712;strada sapientei 4
+4;2281;strada stupilor 3;2013;strada vulturilor 3
+4;2282;strada suvenir 10;1782;strada slanic 10
+6;2283;strada tabacarilor 22;877;strada gradinarilor 12
+6;2284;strada tabacarilor 24;878;strada gradinarilor 20
+6;2285;strada tabacarilor 25;878;strada gradinarilor 20
+6;2286;strada tabacarilor 27;878;strada gradinarilor 20
+6;2287;strada tabacarilor 30;878;strada gradinarilor 20
+7;2288;strada tabacarilor 33;160;strada bacani 3
+10;2289;strada drumul taberei 59;1221;strada mamulari 3
+5;2290;strada tache gheorghe 13;1169;strada manu gheorghe 12
+8;2291;strada tache ionescu 1;127;strada avram iancu 1
+9;2292;strada tache ionescu 5;85;strada armeneasca 35
+6;2293;strada teheran 21-23;1870;strada traian 123
+7;2294;strada teiul doamnei 2;340;strada doamnei 20
+7;2295;strada teiul doamnei 92;639;strada doamnei 9
+7;2296;strada teiul doamnei 96;639;strada doamnei 9
+7;2297;strada teiul doamnei 98;639;strada doamnei 9
+3;2298;strada temisana 7;1844;strada temisana 2-4
+11;2299;strada teodorescu g dem 20b;649;strada dobrescu i demetru 1
+2;2300;strada tepes voda 16;1898;strada tepes voda 86a
+3;2301;strada tepes voda 72;1898;strada tepes voda 86a
+3;2302;strada tepes voda 78;1898;strada tepes voda 86a
+3;2303;strada tepes voda 146c;1898;strada tepes voda 86a
+14;2304;strada theodor d sperantia 14a;885;strada grigorescu eremia 14
+8;2305;strada thoma ionescu 6;863;strada ghica ion 4
+8;2306;strada thoma ionescu 16;867;strada ghica ion 11
+2;2307;strada toamnei 29;340;strada doamnei 20
+2;2308;strada toamnei 30;340;strada doamnei 20
+2;2309;strada toamnei 45;637;strada doamnei 5
+2;2310;strada toamnei 48a;1846;strada toamnei 83
+1;2311;strada toamnei 89;1846;strada toamnei 83
+3;2312;strada toamnei 119;542;strada doamnei 1
+1;2313;strada traian 54;1876;strada traian 154
+1;2314;strada traian 71;1857;strada traian 75
+1;2315;strada traian 161;1868;strada traian 121
+1;2316;strada traian 181;1868;strada traian 121
+1;2317;strada traian 183;1870;strada traian 123
+1;2318;strada traian 187;1862;strada traian 107
+1;2319;strada traian 202;1892;strada traian 204
+1;2320;strada traian 206;1892;strada traian 204
+1;2321;strada traian 218;1866;strada traian 118
+2;2322;strada traian 222;1864;strada traian 112
+1;2323;strada traian 254;1876;strada traian 154
+6;2324;strada traian vasile 65;1430;strada parvan vasile 12
+5;2325;strada traian vasile 71;1854;strada toneanu vasile 31
+8;2326;strada transilvaniei 28;278;strada brailita 28
+6;2327;strada trei scaune 27;1075;strada lipscani 27
+8;2328;strada tudor arghezi 12;640;strada doamnei 12
+9;2329;strada tudor arghezi 11;542;strada doamnei 1
+9;2330;strada tudor arghezi 16;323;strada burghelea 16
+9;2331;strada tudor arghezi 17;324;strada burghelea 17
+9;2332;strada tudor arghezi 19;325;strada burghelea 19
+9;2333;strada tudor arghezi 24;340;strada doamnei 20
+9;2334;strada tudor arghezi 25;340;strada doamnei 20
+7;2335;strada tudor vianu 33;1859;strada traian 93
+3;2336;strada tunari 6;233;strada blanari 6
+4;2337;strada tunari 45;232;strada blanari 4
+4;2338;strada tunari 73;231;strada blanari 3
+4;2339;strada tunari 81;230;strada blanari 1
+4;2340;strada tunari 83;231;strada blanari 3
+4;2341;strada tunari 87;234;strada blanari 8
+10;2342;strada turturelelor 26-26a;1894;strada tuberozelor 2
+3;2343;strada uioara 3;982;strada mioara 15
+3;2344;splaiul unirii 2f;1899;splaiul unirii 173
+3;2345;splaiul unirii 5;1899;splaiul unirii 173
+3;2346;splaiul unirii 9;1899;splaiul unirii 173
+3;2347;splaiul unirii 58;1899;splaiul unirii 173
+2;2348;splaiul unirii 72;1899;splaiul unirii 173
+3;2349;splaiul unirii 84;1899;splaiul unirii 173
+6;2350;splaiul unirii 102-104;1899;splaiul unirii 173
+2;2351;splaiul unirii 112;1899;splaiul unirii 173
+3;2352;splaiul unirii 209;1899;splaiul unirii 173
+1;2353;strada unitatii 52;1900;strada unitatii 82
+10;2354;strada valeriu braniste 38;1145;strada lupu dionisie 37
+1;2355;strada vanatori 1;1906;strada vanatori 4
+6;2356;strada vaselor 23;99;strada atena 3
+5;2357;strada vaselor 24;1446;strada plantelor 4
+5;2358;strada vaselor 28;1449;strada plantelor 48
+5;2359;strada vaselor 30;365;strada cameliei 30
+8;2360;strada vasile conta 6;101;strada atena 6
+8;2361;strada vasile conta 17;1497;strada polona 17
+8;2362;strada vasile conta 19;1498;strada polona 19
+10;2363;strada vasile cristescu 11;1724;strada scarlatescu 51
+9;2364;strada vasile lascar 6;84;strada armeneasca 10
+8;2365;strada vasile lascar 21;1238;strada mantuleasa 21
+9;2366;strada vasile lascar 24;84;strada armeneasca 10
+7;2367;strada vasile lascar 35;85;strada armeneasca 35
+11;2368;strada vasile lascar 48-50;84;strada armeneasca 10
+9;2369;strada vasile lascar 68;84;strada armeneasca 10
+9;2370;strada vasile lascar 71;84;strada armeneasca 10
+9;2371;strada vasile lascar 77;84;strada armeneasca 10
+9;2372;strada vasile lascar 79;84;strada armeneasca 10
+8;2373;strada vasile lascar 80;84;strada armeneasca 10
+9;2374;strada vasile lascar 81;84;strada armeneasca 10
+11;2375;strada vasile lucaciu 31-33;15;strada carada eugeniu 1-3
+10;2376;strada vasile lucaciu 77;610;strada davila carol 4
+9;2377;strada vasile lucaciu 88;612;strada davila carol 8
+8;2378;strada vasile parvan 14;610;strada davila carol 4
+7;2379;intrarea vasile paun 2;55;intrarea alexe marin 2
+9;2380;strada vasile stroescu 8;612;strada davila carol 8
+9;2381;strada vasile stroescu 18;880;strada silvestru 38
+9;2382;strada vasile toneanu 17;1105;strada lizeanu 17
+4;2383;aleea vergului 1;490;aleea circului 15
+5;2384;aleea vergului 3;490;aleea circului 15
+5;2385;aleea vergului 4;490;aleea circului 15
+4;2386;aleea vergului 5;490;aleea circului 15
+5;2387;aleea vergului 7;490;aleea circului 15
+6;2388;soseaua vergului 11;886;soseaua iancului 3
+5;2389;soseaua vergului 13;886;soseaua iancului 3
+9;2390;strada veronica micle 25;1000;strada ionescu tache 25
+6;2391;strada verzisori 35;1231;strada martisor 26
+5;2392;strada verzisori 46;203;strada berzei 46
+2;2393;strada vespasian 54;1912;strada vespasian 18
+7;2394;strada victor babes 12;970;strada icoanei 12
+2;2395;calea victoriei 16-20;1937;calea victoriei 120
+0;2396;strada blanari 3;231;strada blanari 3
+1;2397;calea victoriei 54;4;calea victoriei 56
+0;2398;strada cameliei 30;365;strada cameliei 30
+1;2399;calea victoriei 122;1805;calea victoriei 192
+1;2400;calea victoriei 134;1921;calea victoriei 13
+1;2401;calea victoriei 135;1921;calea victoriei 13
+1;2402;calea victoriei 190;1805;calea victoriei 192
+6;2403;strada viesparilor 29;1953;strada visarion 14
+8;2404;soseaua viilor 94;683;soseaua panduri 28
+7;2405;soseaua viilor 96;1366;soseaua orhideelor 46
+5;2406;strada viitorului 10-12;1951;strada viitorului 94
+3;2407;strada viitorului 26a;1951;strada viitorului 94
+2;2408;strada viitorului 33;1951;strada viitorului 94
+2;2409;strada viitorului 70;1951;strada viitorului 94
+7;2410;strada viitorului 117-119;817;strada foisorului 119
+7;2411;strada viitorului 157-159;817;strada foisorului 119
+1;2412;strada visarion 13;1953;strada visarion 14
+1;2413;strada visarion 19;1953;strada visarion 14
+2;2414;strada visarion 25;1953;strada visarion 14
+5;2415;strada visinilor 2a;1954;strada vistierilor 5
+1;2416;strada vistierilor 1;1954;strada vistierilor 5
+7;2417;strada vitejescu 9;626;strada dianei 9
+7;2418;strada vitejescu 16;84;strada armeneasca 10
+11;2419;intrarea vladimir streinu 2;55;intrarea alexe marin 2
+12;2420;intrarea vladimir streinu 12;55;intrarea alexe marin 2
+1;2421;strada vulturilor 4;2013;strada vulturilor 3
+2;2422;strada vulturilor 51;2013;strada vulturilor 3
+2;2423;strada vulturilor 55;2013;strada vulturilor 3
+1;2424;strada washington 5;2014;strada washington 9
+5;2425;strada witing 26;101;strada atena 6
+5;2426;strada witing 42;100;strada atena 4
+8;2427;strada zambila ionita 1;1317;strada movila ion 5
+8;2428;strada zambila ionita 3;1317;strada movila ion 5
+3;2429;strada zarii 11;172;strada baniei 11
+7;2430;strada zece mese 6a;1474;strada remus 6
+5;2431;strada zefirului 3;148;strada banului 3
+5;2432;strada zefirului 11;89;strada atelierului 12
+4;2433;strada zefirului 19;93;strada atelierului 19
+0;2434;bulevardul carol i 27;382;bulevardul carol i 27
+0;2435;strada coltei 52;526;strada coltei 52
+0;2436;strada doamnei 3;636;strada doamnei 3
+0;2437;strada doamnei 5;637;strada doamnei 5
+0;2438;strada domnita anastasia 5;656;strada domnita anastasia 5
+0;2439;strada franceza 8;823;strada franceza 8
+0;2440;strada franceza 9;281;strada franceza 9
+0;2441;strada franceza 14;827;strada franceza 14
+0;2442;strada franceza 20;831;strada franceza 20
+0;2443;strada franceza 30;833;strada franceza 30
+0;2444;strada franceza 32;834;strada franceza 32
+0;2445;strada franceza 36;839;strada franceza 36
+10;2446;bulevardul gheorghe magheru 12-14;1153;bulevardul magheru gheorghe 12-14
+0;2447;calea grivitei 33;900;calea grivitei 33
+0;2448;calea grivitei 39;904;calea grivitei 39
+0;2449;calea grivitei 127;938;calea grivitei 127
+10;2450;bulevardul hristo botev 14;110;bulevardul aviatorilor 1
+8;2451;strada ion florescu 21;796;strada florescu ion 1
+6;2452;strada ivo andric 4;232;strada blanari 4
+0;2453;strada lipscani 45;1083;strada lipscani 45
+0;2454;strada lipscani 47;1084;strada lipscani 47
+0;2455;strada lipscani 26;1074;strada lipscani 26
+0;2456;strada mihai voda 13;1251;strada mihai voda 13
+0;2457;strada mihai voda 15;1252;strada mihai voda 15
+10;2458;strada mircea vulcanescu 12;1271;strada mircea cel batran 16
+0;2459;strada parintele staniloaie 2;1420;strada parintele staniloaie 2
+0;2460;strada paris 7;1400;strada paris 7
+10;2461;strada radu calomfirescu 7;349;strada calomfirescu radu 7
+10;2462;strada radu calomfirescu 10;351;strada calomfirescu radu 10
+10;2463;strada radu calomfirescu 12;355;strada calomfirescu radu 12
+5;2464;strada radu cristian 2;1843;strada teii cristian 9
+5;2465;strada radu cristian 3;1843;strada teii cristian 9
+0;2466;piata romana 1;1645;piata romana 1
+0;2467;bulevardul schitu magureanu 19;1726;bulevardul schitu magureanu 19
+0;2468;strada sfanta vineri 5;1747;strada sfanta vineri 5
+0;2469;strada sfanta vineri 7;1748;strada sfanta vineri 7
+0;2470;strada sfintilor 13;1770;strada sfintilor 13
+11;2471;intrarea victor eftimiu 9;224;intrarea bitolia 5
+0;2472;calea calarasilor 124;449;calea calarasilor 124
+0;2473;calea dorobantilor 36-40;665;calea dorobantilor 36-40
+0;2474;calea dorobantilor 49;667;calea dorobantilor 49
+0;2475;calea dudesti 111;678;calea dudesti 111
+0;2476;calea grivitei 13;894;calea grivitei 13
+0;2477;calea grivitei 77;925;calea grivitei 77
+9;2478;bulevardul hristo botev 3;111;bulevardul aviatorilor 3
+9;2479;bulevardul hristo botev 8;113;bulevardul aviatorilor 8
+0;2480;strada lizeanu 20;1107;strada lizeanu 20
+0;2481;strada londra 19;1130;strada londra 19
+0;2482;calea mosilor 27;1291;calea mosilor 27
+12;2483;bulevardul pache protopopescu 18;1549;bulevardul protopopescu pache 18
+0;2484;strada sfintii apostoli 1;1759;strada sfintii apostoli 1
+0;2485;strada soarelui 3-5;1792;strada soarelui 3-5
+4;2486;intrarea spatarului 3;1799;strada spatarului 3
+8;2487;strada spiru haret 8;335;strada caimatei 8
+10;2488;strada vasile alecsandri 5;660;strada donici alexandru 23
+0;2489;strada blanari 9;235;strada blanari 9
+0;2490;aleea circului 15;490;aleea circului 15
+5;2491;strada ion ghica 4;632;strada doamna ghica 3
+0;2492;strada olari 32;1358;strada olari 32
+0;2493;strada sevastopol 8;1731;strada sevastopol 8
+0;2494;calea dudesti 141;694;calea dudesti 141
+0;2495;strada stavropoleos 5;1804;strada stavropoleos 5
+0;2496;calea victoriei 48-50;1929;calea victoriei 48-50
+9;2497;bulevardul hristo botev 9;114;bulevardul aviatorilor 9
+0;2498;bulevardul dacia 72;586;bulevardul dacia 72
+0;2499;strada lipscani 78;1093;strada lipscani 78
+8;2500;strada alecu russo 7;1663;strada romulus 7
+0;2501;strada armeneasca 10;84;strada armeneasca 10
+0;2502;strada atena 22;107;strada atena 22
+0;2503;bulevardul aviatorilor 5;112;bulevardul aviatorilor 5
+0;2504;strada baia de fier 5;138;strada baia de fier 5
+0;2505;strada baia de fier 8;140;strada baia de fier 8
+0;2506;strada baniei 3;171;strada baniei 3
+0;2507;strada baniei 11;172;strada baniei 11
+0;2508;strada baniei 17;174;strada baniei 17
+0;2509;strada burghelea 19;325;strada burghelea 19
+0;2510;strada caimatei 8;335;strada caimatei 8
+0;2511;strada caimatei 10;336;strada caimatei 10
+0;2512;calea calarasilor 36;409;calea calarasilor 36
+0;2513;calea calarasilor 57;197;calea calarasilor 57
+0;2514;calea calarasilor 87;432;calea calarasilor 87
+0;2515;calea calarasilor 91;435;calea calarasilor 91
+0;2516;calea calarasilor 105;442;calea calarasilor 105
+0;2517;calea calarasilor 111;448;calea calarasilor 111
+0;2518;strada cameliei 36;367;strada cameliei 36
+1;2519;bulevardul carol i 10;379;bulevardul carol i 110
+0;2520;strada cavafii vechi 11;406;strada cavafii vechi 11
+0;2521;strada cavafii vechi 13;407;strada cavafii vechi 13
+0;2522;strada coltei 1;500;strada coltei 1
+0;2523;strada coltei 2;501;strada coltei 2
+0;2524;strada coltei 4;503;strada coltei 4
+0;2525;strada coltei 5;504;strada coltei 5
+0;2526;strada coltei 7;506;strada coltei 7
+0;2527;strada coltei 9;508;strada coltei 9
+0;2528;strada coltei 21;512;strada coltei 21
+0;2529;strada coltei 22;513;strada coltei 22
+0;2530;strada coltei 25;515;strada coltei 25
+0;2531;strada coltei 26;516;strada coltei 26
+0;2532;strada coltei 38;519;strada coltei 38
+0;2533;strada coltei 46;523;strada coltei 46
+0;2534;aleea dealul mitropoliei 7;613;aleea dealul mitropoliei 7
+11;2535;strada dimitrie orbescu 12;714;strada dumbrava rosie 12
+10;2536;strada dionisie lupu 74;1150;strada lupu dionisie 74
+0;2537;strada doamnei 1;542;strada doamnei 1
+0;2538;strada doamnei 21;646;strada doamnei 21
+0;2539;strada doamnei 23;648;strada doamnei 23
+0;2540;strada domnita anastasia 11;659;strada domnita anastasia 11
+0;2541;calea dudesti 139;692;calea dudesti 139
+0;2542;strada dumbrava rosie 5;707;strada dumbrava rosie 5
+0;2543;strada dumbrava rosie 16;716;strada dumbrava rosie 16
+0;2544;strada eforiei 2;718;strada eforiei 2
+0;2545;strada franceza 12;825;strada franceza 12
+0;2546;strada franceza 13;826;strada franceza 13
+0;2547;strada franceza 16;828;strada franceza 16
+0;2548;strada franceza 17;829;strada franceza 17
+0;2549;strada franceza 18;830;strada franceza 18
+0;2550;strada franceza 34;838;strada franceza 34
+0;2551;strada frumoasa 33;848;strada frumoasa 33
+0;2552;strada frumoasa 47;851;strada frumoasa 47
+11;2553;strada gheorghe bratianu 26;859;strada georgescu mihail 20
+8;2554;strada gheorghe manu 12;1611;strada raureanu 12
+0;2555;calea grivitei 23;896;calea grivitei 23
+0;2556;calea grivitei 36;902;calea grivitei 36
+0;2557;calea grivitei 36;902;calea grivitei 36
+0;2558;calea grivitei 50;911;calea grivitei 50
+0;2559;calea grivitei 123;936;calea grivitei 123
+0;2560;calea grivitei 127;938;calea grivitei 127
+0;2561;calea grivitei 129;939;calea grivitei 129
+0;2562;calea grivitei 131;940;calea grivitei 131
+10;2563;bulevardul hristo botev 2;68;bulevardul aviatorilor 7
+10;2564;bulevardul hristo botev 4;68;bulevardul aviatorilor 7
+9;2565;bulevardul hristo botev 7;68;bulevardul aviatorilor 7
+10;2566;bulevardul hristo botev 22;118;bulevardul aviatorilor 24
+9;2567;bulevardul hristo botev 24;118;bulevardul aviatorilor 24
+10;2568;bulevardul hristo botev 26;117;bulevardul aviatorilor 16
+9;2569;bulevardul hristo botev 27;869;bulevardul ghica tei 77
+10;2570;bulevardul hristo botev 29;114;bulevardul aviatorilor 9
+10;2571;bulevardul hristo botev 34;111;bulevardul aviatorilor 3
+10;2572;bulevardul hristo botev 44;118;bulevardul aviatorilor 24
+0;2573;strada icoanei 57;973;strada icoanei 57
+8;2574;strada ion campineanu 2;479;strada campineanu ion 2
+8;2575;strada ion florescu 8;798;strada florescu ion 8
+8;2576;strada ion florescu 17;803;strada florescu ion 17
+13;2577;strada jean louis calderon 50;226;strada blank louis 9a
+0;2578;strada lipscani 28;1076;strada lipscani 28
+0;2579;strada lipscani 52;1086;strada lipscani 52
+0;2580;strada lipscani 54;1087;strada lipscani 54
+0;2581;strada lipscani 66;1089;strada lipscani 66
+0;2582;strada lipscani 72;1090;strada lipscani 72
+0;2583;strada lipscani 80;1094;strada lipscani 80
+0;2584;strada lizeanu 22-24;1109;strada lizeanu 22-24
+0;2585;strada mantuleasa 34;1242;strada mantuleasa 34
+0;2586;strada mantuleasa 33;1241;strada mantuleasa 33
+8;2587;strada maria rosetti 15;1157;strada maica domnului 15
+8;2588;strada maria rosetti 36;151;strada barierei 39
+0;2589;strada matei voievod 35;1217;strada matei voievod 35
+0;2590;strada mihai voda 5;1247;strada mihai voda 5
+0;2591;strada mihai voda 7;1248;strada mihai voda 7
+0;2592;strada mihai voda 9;1249;strada mihai voda 9
+0;2593;strada mihai voda 11;1250;strada mihai voda 11
+11;2594;strada mircea vulcanescu 39;1271;strada mircea cel batran 16
+0;2595;calea mosilor 23;1289;calea mosilor 23
+0;2596;calea mosilor 25;1290;calea mosilor 25
+0;2597;calea mosilor 38;1295;calea mosilor 38
+0;2598;calea mosilor 44;1297;calea mosilor 44
+0;2599;strada sfintilor 11;1768;strada sfintilor 11
+0;2600;strada smardan 5;1786;strada smardan 5
+0;2601;strada stavropoleos 3;14;strada stavropoleos 3
+0;2602;calea victoriei 26;1441;calea victoriei 26
+0;2603;calea victoriei 91-93;1931;calea victoriei 91-93
+0;2604;calea victoriei 115;1935;calea victoriei 115
+0;2605;strada coltei 44;522;strada coltei 44
+0;2606;strada covaci 16;564;strada covaci 16
+0;2607;strada coltei 16;509;strada coltei 16
+0;2608;bulevardul dacia 85;594;bulevardul dacia 85
+0;2609;strada franceza 11;824;strada franceza 11
+0;2610;strada lipscani 55;1088;strada lipscani 55
+0;2611;strada lipscani 77;1050;strada lipscani 77
+0;2612;strada lipscani 40;1079;strada lipscani 40
+0;2613;strada lipscani 76;1092;strada lipscani 76
+0;2614;calea mosilor 21;1288;calea mosilor 21
+13;2615;bulevardul nicolae balcescu 24;263;bulevardul botev hristo 24
+12;2616;bulevardul pache protopopescu 51;1550;bulevardul protopopescu pache 51
+0;2617;calea mosilor 46;1298;calea mosilor 46
+0;2618;calea mosilor 74;1301;calea mosilor 74
+0;2619;calea mosilor 82;1305;calea mosilor 82
+0;2620;calea mosilor 90;1309;calea mosilor 90
+0;2621;calea mosilor 92;1310;calea mosilor 92
+0;2622;calea mosilor 122;1311;calea mosilor 122
+0;2623;calea mosilor 134-134a;1314;calea mosilor 134-134a
+0;2624;calea mosilor 136-138;1316;calea mosilor 136-138
+0;2625;strada negustori 10;1331;strada negustori 10
+0;2626;strada negustori 14;1333;strada negustori 14
+10;2627;strada nicolae turnescu 1;1724;strada scarlatescu 51
+0;2628;strada patriei 3;1417;strada patriei 3
+18;2629;soseaua pavel dimitrievici kiseleff 35-37;1049;soseaua kiseleff pavel dimitrievici 35-37
+0;2630;calea plevnei 40;1454;calea plevnei 40
+0;2631;calea plevnei 54;1456;calea plevnei 54
+10;2632;strada radu calomfirescu 1;344;strada calomfirescu radu 1
+10;2633;strada radu calomfirescu 3;345;strada calomfirescu radu 3
+10;2634;strada radu calomfirescu 11;344;strada calomfirescu radu 1
+0;2635;strada romulus 2;1661;strada romulus 2
+0;2636;strada romulus 79;1685;strada romulus 79
+0;2637;strada sfintilor 9;1767;strada sfintilor 9
